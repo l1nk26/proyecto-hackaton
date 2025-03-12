@@ -1,5 +1,4 @@
 usdprice,commodity,date,unit
-#value+usd,#item+name,#date,#item+unit
 0.2239,Maize (yellow),2000-01-15,KG
 0.4407,Rice (high quality),2000-01-15,KG
 0.3331,Wheat flour,2000-01-15,KG
@@ -3526,11 +3525,8 @@ usdprice,commodity,date,unit
 0.4728,Potatoes,2012-04-15,KG
 1.9464,Sugar,2012-04-15,KG
 2.1963,Beans (red),2012-04-15,KG
-577.4962,Rice (paddy),2012-04-15,MT
 1.0132,Maize (white),2012-04-15,KG
 0.5173,Potatoes,2012-04-15,KG
-620.2737,Rice (paddy),2012-04-15,MT
-1187.6384,Rice (white),2012-04-15,MT
 0.9118,Wheat flour,2012-04-15,KG
 0.1295,"Eggs (white, AA)",2012-04-15,Unit
 2.9269,Meat (chicken),2012-04-15,KG
@@ -3542,20 +3538,14 @@ usdprice,commodity,date,unit
 0.9619,Onions (white),2012-04-15,KG
 0.9101,Plantains,2012-04-15,KG
 0.4829,Tomatoes,2012-04-15,KG
-573.6969,Rice (paddy),2012-04-15,MT
-562.8618,Rice (paddy),2012-04-15,MT
-1148.2381,Rice (white),2012-04-15,MT
 0.6715,Maize (white),2012-05-15,KG
 0.5596,Potatoes,2012-05-15,KG
 1.2311,Sugar,2012-05-15,KG
 2.1656,Beans (red),2012-05-15,KG
 1.1281,Lentils (imported),2012-05-15,KG
 0.5596,Tomatoes,2012-05-15,KG
-596.9037,Rice (paddy),2012-05-15,MT
-1156.5008,Rice (white),2012-05-15,MT
 1.0073,Maize (white),2012-05-15,KG
 0.7174,Potatoes,2012-05-15,KG
-704.3464,Rice (paddy),2012-05-15,MT
 0.9166,Wheat flour,2012-05-15,KG
 0.1337,"Eggs (white, AA)",2012-05-15,Unit
 2.8086,Meat (chicken),2012-05-15,KG
@@ -3568,23 +3558,17 @@ usdprice,commodity,date,unit
 0.8394,"Peas (green, dry)",2012-05-15,KG
 0.8338,Onions (white),2012-05-15,KG
 0.8047,Tomatoes,2012-05-15,KG
-635.7023,Rice (paddy),2012-05-15,MT
-1320.6491,Rice (white),2012-05-15,MT
-1251.1472,Rice (white),2012-05-15,MT
 0.656,Maize (white),2012-06-15,KG
 0.4831,Maize (yellow),2012-06-15,KG
 0.9868,Sugar,2012-06-15,KG
 2.2428,Beans (red),2012-06-15,KG
 1.3611,Rice (high quality),2012-06-15,KG
 1.2927,"Rice (ordinary, second quality)",2012-06-15,KG
-613.2604,Rice (paddy),2012-06-15,MT
-1208.2983,Rice (white),2012-06-15,MT
 0.6653,Wheat flour,2012-06-15,KG
 0.9465,Maize (white),2012-06-15,KG
 0.3689,Potatoes,2012-06-15,KG
 1.3863,Rice (high quality),2012-06-15,KG
 1.2602,"Rice (ordinary, second quality)",2012-06-15,KG
-1412.9521,Rice (white),2012-06-15,MT
 0.9195,Wheat flour,2012-06-15,KG
 0.1346,"Eggs (white, AA)",2012-06-15,Unit
 1.2335,Sugar,2012-06-15,KG
@@ -3594,9 +3578,6 @@ usdprice,commodity,date,unit
 1.441,Lentils (imported),2012-06-15,KG
 0.841,"Peas (green, dry)",2012-06-15,KG
 0.5927,Plantains,2012-06-15,KG
-1289.5991,Rice (white),2012-06-15,MT
-1223.7174,Rice (white),2012-06-15,MT
-566.3022,Rice (paddy),2012-06-15,MT
 0.6716,Maize (white),2012-07-15,KG
 0.4629,Maize (yellow),2012-07-15,KG
 1.4221,Rice (high quality),2012-07-15,KG
@@ -3607,13 +3588,10 @@ usdprice,commodity,date,unit
 1.2313,Tomatoes,2012-07-15,KG
 1.3326,Rice (high quality),2012-07-15,KG
 1.2753,"Rice (ordinary, second quality)",2012-07-15,KG
-573.6709,Rice (paddy),2012-07-15,MT
 0.8625,Sugar (white),2012-07-15,KG
 0.9179,Maize (white),2012-07-15,KG
 0.3727,Potatoes,2012-07-15,KG
 1.1959,"Rice (ordinary, second quality)",2012-07-15,KG
-663.7792,Rice (paddy),2012-07-15,MT
-1410.3909,Rice (white),2012-07-15,MT
 0.9179,Wheat flour,2012-07-15,KG
 0.1399,"Eggs (white, AA)",2012-07-15,Unit
 2.7984,Meat (chicken),2012-07-15,KG
@@ -3623,9 +3601,6 @@ usdprice,commodity,date,unit
 3.3581,Beans (red),2012-07-15,KG
 1.9589,Chickpeas (imported),2012-07-15,KG
 0.8395,"Peas (green, dry)",2012-07-15,KG
-625.721,Rice (paddy),2012-07-15,MT
-1281.6647,Rice (white),2012-07-15,MT
-556.8805,Rice (paddy),2012-07-15,MT
 0.6047,Maize (white),2012-08-15,KG
 0.4805,Maize (yellow),2012-08-15,KG
 1.3793,Rice (high quality),2012-08-15,KG
@@ -3634,14 +3609,12 @@ usdprice,commodity,date,unit
 1.0995,Tomatoes,2012-08-15,KG
 1.3321,Rice (high quality),2012-08-15,KG
 1.2394,"Rice (ordinary, second quality)",2012-08-15,KG
-599.2303,Rice (paddy),2012-08-15,MT
 0.6795,Wheat flour,2012-08-15,KG
 0.8499,Sugar (white),2012-08-15,KG
 0.4415,Maize (yellow),2012-08-15,KG
 0.3942,Potatoes,2012-08-15,KG
 1.348,Rice (high quality),2012-08-15,KG
 1.2239,"Rice (ordinary, second quality)",2012-08-15,KG
-1385.3766,Rice (white),2012-08-15,MT
 1.0995,Wheat flour,2012-08-15,KG
 2.8587,Meat (chicken),2012-08-15,KG
 1.1905,Sugar,2012-08-15,KG
@@ -3652,10 +3625,6 @@ usdprice,commodity,date,unit
 0.8246,"Peas (green, dry)",2012-08-15,KG
 0.4574,Onions (white),2012-08-15,KG
 0.5745,Plantains,2012-08-15,KG
-1253.436,Rice (white),2012-08-15,MT
-1189.7746,Rice (white),2012-08-15,MT
-547.5536,Rice (paddy),2012-08-15,MT
-1196.9824,Rice (white),2012-08-15,MT
 0.6059,Maize (white),2012-09-15,KG
 0.4814,Maize (yellow),2012-09-15,KG
 0.5717,Potatoes,2012-09-15,KG
@@ -3665,14 +3634,10 @@ usdprice,commodity,date,unit
 0.5618,Tomatoes,2012-09-15,KG
 1.3301,Rice (high quality),2012-09-15,KG
 1.2508,"Rice (ordinary, second quality)",2012-09-15,KG
-625.8572,Rice (paddy),2012-09-15,MT
-1274.6418,Rice (white),2012-09-15,MT
 0.8268,Sugar (white),2012-09-15,KG
 0.9915,Maize (white),2012-09-15,KG
 0.4566,Maize (yellow),2012-09-15,KG
 1.2129,"Rice (ordinary, second quality)",2012-09-15,KG
-695.1215,Rice (paddy),2012-09-15,MT
-1388.0397,Rice (white),2012-09-15,MT
 0.997,Wheat flour,2012-09-15,KG
 0.1217,"Eggs (white, AA)",2012-09-15,Unit
 2.8642,Meat (chicken),2012-09-15,KG
@@ -3683,25 +3648,16 @@ usdprice,commodity,date,unit
 1.9912,Chickpeas (imported),2012-09-15,KG
 1.1126,Lentils (imported),2012-09-15,KG
 0.8262,"Peas (green, dry)",2012-09-15,KG
-654.3616,Rice (paddy),2012-09-15,MT
-1255.8455,Rice (white),2012-09-15,MT
-1207.2365,Rice (white),2012-09-15,MT
-592.1201,Rice (paddy),2012-09-15,MT
-1621.8275,Rice (white),2012-09-15,MT
 1.4558,Rice (high quality),2012-10-15,KG
 0.8125,Sugar,2012-10-15,KG
 2.3372,Beans (red),2012-10-15,KG
 0.9137,Tomatoes,2012-10-15,KG
 1.2702,"Rice (ordinary, second quality)",2012-10-15,KG
-606.5665,Rice (paddy),2012-10-15,MT
-1263.773,Rice (white),2012-10-15,MT
 0.7468,Wheat flour,2012-10-15,KG
 1.0017,Maize (white),2012-10-15,KG
 0.4791,Maize (yellow),2012-10-15,KG
 0.4268,Potatoes,2012-10-15,KG
 1.3868,Rice (high quality),2012-10-15,KG
-709.6272,Rice (paddy),2012-10-15,MT
-1333.5559,Rice (white),2012-10-15,MT
 0.1291,"Eggs (white, AA)",2012-10-15,Unit
 2.8937,Meat (chicken),2012-10-15,KG
 0.3895,"Sugar (brown, loaf)",2012-10-15,KG
@@ -3714,23 +3670,16 @@ usdprice,commodity,date,unit
 1.2805,Rice (high quality),2012-10-15,KG
 0.7357,Wheat flour,2012-10-15,KG
 0.8169,Sugar (white),2012-10-15,KG
-1302.1703,Rice (white),2012-10-15,MT
-628.7307,Rice (paddy),2012-10-15,MT
-1247.6349,Rice (white),2012-10-15,MT
-517.5292,Rice (paddy),2012-10-15,MT
-1199.5047,Rice (white),2012-10-15,MT
 0.447,Maize (white),2012-11-15,KG
 0.4791,Maize (yellow),2012-11-15,KG
 0.4079,Potatoes,2012-11-15,KG
 1.4182,Rice (high quality),2012-11-15,KG
 1.2866,Rice (high quality),2012-11-15,KG
-1121.0394,Rice (white),2012-11-15,MT
 0.7263,Wheat flour,2012-11-15,KG
 0.9867,Maize (white),2012-11-15,KG
 0.4747,Maize (yellow),2012-11-15,KG
 0.2818,Potatoes,2012-11-15,KG
 1.2036,"Rice (ordinary, second quality)",2012-11-15,KG
-632.6061,Rice (paddy),2012-11-15,MT
 0.1316,"Eggs (white, AA)",2012-11-15,Unit
 1.0405,Sugar,2012-11-15,KG
 0.4073,"Sugar (brown, loaf)",2012-11-15,KG
@@ -3743,27 +3692,17 @@ usdprice,commodity,date,unit
 0.4714,Maize (yellow),2012-11-15,KG
 1.2307,Rice (high quality),2012-11-15,KG
 0.7214,Wheat flour,2012-11-15,KG
-579.295,Rice (paddy),2012-11-15,MT
-1274.5313,Rice (white),2012-11-15,MT
-489.608,Rice (paddy),2012-11-15,MT
-1151.1896,Rice (white),2012-11-15,MT
-438.5484,Rice (paddy),2012-11-15,MT
-1062.8703,Rice (white),2012-11-15,MT
 0.4374,Maize (white),2012-12-15,KG
 0.422,Potatoes,2012-12-15,KG
 1.4007,Rice (high quality),2012-12-15,KG
 1.0776,Tomatoes,2012-12-15,KG
 1.2442,Rice (high quality),2012-12-15,KG
-494.7372,Rice (paddy),2012-12-15,MT
-1087.0283,Rice (white),2012-12-15,MT
 0.7319,Wheat flour,2012-12-15,KG
 0.825,Sugar (white),2012-12-15,KG
 1.0034,Maize (white),2012-12-15,KG
 0.4618,Maize (yellow),2012-12-15,KG
 0.3345,Potatoes,2012-12-15,KG
 1.1931,"Rice (ordinary, second quality)",2012-12-15,KG
-566.3696,Rice (paddy),2012-12-15,MT
-1270.9869,Rice (white),2012-12-15,MT
 0.9811,Wheat flour,2012-12-15,KG
 0.1226,"Eggs (white, AA)",2012-12-15,Unit
 1.0034,Sugar,2012-12-15,KG
@@ -3774,17 +3713,12 @@ usdprice,commodity,date,unit
 0.4833,Maize (yellow),2012-12-15,KG
 0.7431,Wheat flour,2012-12-15,KG
 0.8083,Sugar (white),2012-12-15,KG
-524.8395,Rice (paddy),2012-12-15,MT
-429.2368,Rice (paddy),2012-12-15,MT
-445.9603,Rice (paddy),2012-12-15,MT
 1.3735,Rice (high quality),2013-01-15,KG
 1.2222,Rice (high quality),2013-01-15,KG
-938.4098,Rice (white),2013-01-15,MT
 0.7639,Wheat flour,2013-01-15,KG
 0.7694,Sugar (white),2013-01-15,KG
 1.38,Rice (high quality),2013-01-15,KG
 1.2052,"Rice (ordinary, second quality)",2013-01-15,KG
-538.1724,Rice (paddy),2013-01-15,MT
 0.9949,Wheat flour,2013-01-15,KG
 0.1244,"Eggs (white, AA)",2013-01-15,Unit
 2.9396,Meat (chicken),2013-01-15,KG
@@ -3797,11 +3731,6 @@ usdprice,commodity,date,unit
 1.0746,Rice (high quality),2013-01-15,KG
 0.7524,Wheat flour,2013-01-15,KG
 0.7943,Sugar (white),2013-01-15,KG
-490.6866,Rice (paddy),2013-01-15,MT
-1233.5001,Rice (white),2013-01-15,MT
-462.0662,Rice (paddy),2013-01-15,MT
-1080.0758,Rice (white),2013-01-15,MT
-1053.9851,Rice (white),2013-01-15,MT
 0.4634,Maize (yellow),2013-02-15,KG
 1.2288,Rice (high quality),2013-02-15,KG
 1.2083,Rice (high quality),2013-02-15,KG
@@ -3815,8 +3744,6 @@ usdprice,commodity,date,unit
 0.48,Maize (white),2013-03-15,KG
 0.4546,Maize (yellow),2013-03-15,KG
 1.2291,Rice (high quality),2013-03-15,KG
-469.2327,Rice (paddy),2013-03-15,MT
-1009.2889,Rice (white),2013-03-15,MT
 0.1163,"Eggs (white, AA)",2013-03-15,Unit
 2.2147,Fish (tilapia),2013-03-15,Libra
 7.6406,Meat (beef),2013-03-15,KG
@@ -3834,23 +3761,18 @@ usdprice,commodity,date,unit
 0.7641,Tomatoes,2013-03-15,KG
 1.1871,Rice (high quality),2013-03-15,KG
 1.0291,"Rice (ordinary, second quality)",2013-03-15,KG
-506.6052,Rice (paddy),2013-03-15,MT
-950.0925,Rice (white),2013-03-15,MT
 0.714,Wheat flour,2013-03-15,KG
 0.7716,Sugar (white),2013-03-15,KG
 0.7751,Maize (yellow),2013-03-15,KG
 1.0149,Maize flour,2013-03-15,KG
 0.7164,Potatoes,2013-03-15,KG
 1.0708,"Rice (ordinary, second quality)",2013-03-15,KG
-518.2323,Rice (paddy),2013-03-15,MT
-996.6005,Rice (white),2013-03-15,MT
 0.8405,Wheat flour,2013-03-15,KG
 11.0733,Fish (dry),2013-03-15,KG
 1.9932,Fish (tilapia),2013-03-15,Libra
 2.0032,Cocoa,2013-03-15,Libra
 8.8587,Coffee,2013-03-15,Libra
 0.7942,Sugar (white),2013-03-15,KG
-326.3867,"Wage (non-qualified labour, non-agricultural)",2013-03-15,Month
 2.5375,Oil (vegetable),2013-03-15,L
 3.322,Beans (red),2013-03-15,KG
 0.8305,"Peas (green, dry)",2013-03-15,KG
@@ -3866,15 +3788,10 @@ usdprice,commodity,date,unit
 0.4789,Maize (yellow),2013-03-15,KG
 0.7253,Wheat flour,2013-03-15,KG
 0.7491,Sugar (white),2013-03-15,KG
-494.0226,Rice (paddy),2013-03-15,MT
-1053.0745,Rice (white),2013-03-15,MT
 0.479,Maize (white),2013-04-15,KG
 1.2154,Rice (high quality),2013-04-15,KG
-500.5101,Rice (paddy),2013-04-15,MT
-1084.9689,Rice (white),2013-04-15,MT
 1.1716,Rice (high quality),2013-04-15,KG
 1.0165,"Rice (ordinary, second quality)",2013-04-15,KG
-1048.2072,Rice (white),2013-04-15,MT
 0.6864,Wheat flour,2013-04-15,KG
 0.7779,Sugar (white),2013-04-15,KG
 0.4871,Cassava (dry),2013-04-15,KG
@@ -3908,16 +3825,9 @@ usdprice,commodity,date,unit
 1.0578,Tomatoes,2013-04-15,KG
 0.4582,Maize (yellow),2013-04-15,KG
 1.217,Rice (high quality),2013-04-15,KG
-472.9615,Rice (paddy),2013-04-15,MT
-1069.2095,Rice (white),2013-04-15,MT
-502.0299,Rice (paddy),2013-04-15,MT
-1065.1181,Rice (white),2013-04-15,MT
 0.4929,Maize (white),2013-05-15,KG
 0.4635,Maize (yellow),2013-05-15,KG
-498.8586,Rice (paddy),2013-05-15,MT
-1120.624,Rice (white),2013-05-15,MT
 1.0088,"Rice (ordinary, second quality)",2013-05-15,KG
-1011.8154,Rice (white),2013-05-15,MT
 0.6811,Wheat flour,2013-05-15,KG
 0.8462,Sugar (white),2013-05-15,KG
 0.4842,Cassava (dry),2013-05-15,KG
@@ -3925,7 +3835,6 @@ usdprice,commodity,date,unit
 2.221,Pasta,2013-05-15,KG
 0.854,Potatoes,2013-05-15,KG
 1.2037,Rice (high quality),2013-05-15,KG
-976.0277,Rice (white),2013-05-15,MT
 0.9218,Wheat flour,2013-05-15,KG
 0.1274,"Eggs (white, AA)",2013-05-15,Unit
 10.8448,Fish (dry),2013-05-15,KG
@@ -3936,7 +3845,6 @@ usdprice,commodity,date,unit
 1.0845,Sugar,2013-05-15,KG
 0.8975,Sugar (white),2013-05-15,KG
 4.6676,Fuel (petrol-gasoline),2013-05-15,Gallon
-319.6491,"Wage (non-qualified labour, non-agricultural)",2013-05-15,Month
 2.0432,Chickpeas (imported),2013-05-15,KG
 0.989,Lentils (imported),2013-05-15,KG
 1.284,"Peas (green, dry)",2013-05-15,KG
@@ -3951,10 +3859,6 @@ usdprice,commodity,date,unit
 1.2786,Rice (high quality),2013-05-15,KG
 0.6832,Wheat flour,2013-05-15,KG
 0.8529,Sugar (white),2013-05-15,KG
-470.12,Rice (paddy),2013-05-15,MT
-1062.7857,Rice (white),2013-05-15,MT
-508.7739,Rice (paddy),2013-05-15,MT
-1059.5323,Rice (white),2013-05-15,MT
 1.6038,Fish (tilapia),2013-05-15,Libra
 1.3014,"Peas (green, dry)",2013-05-15,KG
 1.6809,Apples (red),2013-05-15,KG
@@ -3973,8 +3877,6 @@ usdprice,commodity,date,unit
 0.5235,Cassava (dry),2013-06-15,KG
 0.4999,Maize (white),2013-06-15,KG
 0.5235,Potatoes,2013-06-15,KG
-471.145,Rice (paddy),2013-06-15,MT
-1070.255,Rice (white),2013-06-15,MT
 2.094,Fish (tilapia),2013-06-15,Libra
 7.2242,Meat (beef),2013-06-15,KG
 1.649,Meat (chicken),2013-06-15,KG
@@ -3988,7 +3890,6 @@ usdprice,commodity,date,unit
 0.5235,Plantains,2013-06-15,KG
 0.5758,Tomatoes,2013-06-15,KG
 1.0645,Rice (high quality),2013-06-15,KG
-1040.1834,Rice (white),2013-06-15,MT
 0.6562,Wheat flour,2013-06-15,KG
 0.8016,Sugar (white),2013-06-15,KG
 0.4675,Cassava (dry),2013-06-15,KG
@@ -3996,7 +3897,6 @@ usdprice,commodity,date,unit
 0.6894,Potatoes,2013-06-15,KG
 1.1569,Rice (high quality),2013-06-15,KG
 1.0026,"Rice (ordinary, second quality)",2013-06-15,KG
-942.29,Rice (white),2013-06-15,MT
 0.8454,Wheat flour,2013-06-15,KG
 0.1152,"Eggs (white, AA)",2013-06-15,Unit
 8.1665,Fish (dry),2013-06-15,KG
@@ -4005,7 +3905,6 @@ usdprice,commodity,date,unit
 1.0114,Sugar,2013-06-15,KG
 0.7972,Sugar (white),2013-06-15,KG
 4.5188,Fuel (petrol-gasoline),2013-06-15,Gallon
-308.6,"Wage (non-qualified labour, non-agricultural)",2013-06-15,Month
 1.8322,Oil (vegetable),2013-06-15,L
 2.6871,Beans (red),2013-06-15,KG
 1.1297,"Peas (green, dry)",2013-06-15,KG
@@ -4019,9 +3918,6 @@ usdprice,commodity,date,unit
 1.2082,Rice (high quality),2013-06-15,KG
 0.6533,Wheat flour,2013-06-15,KG
 0.7685,Sugar (white),2013-06-15,KG
-453.8697,Rice (paddy),2013-06-15,MT
-1026.0491,Rice (white),2013-06-15,MT
-1016.1027,Rice (white),2013-06-15,MT
 1.6516,Fish (tilapia),2013-06-15,Libra
 1.4658,Apples (red),2013-06-15,KG
 0.5235,Cabbage,2013-06-15,KG
@@ -4043,7 +3939,6 @@ usdprice,commodity,date,unit
 0.4511,Maize (yellow),2013-07-15,KG
 0.5042,Potatoes,2013-07-15,KG
 1.1973,Rice (high quality),2013-07-15,KG
-477.6563,Rice (paddy),2013-07-15,MT
 0.1804,"Eggs (white, AA)",2013-07-15,Unit
 7.3241,Meat (beef),2013-07-15,KG
 1.6718,Meat (chicken),2013-07-15,KG
@@ -4061,7 +3956,6 @@ usdprice,commodity,date,unit
 0.6899,Tomatoes,2013-07-15,KG
 1.0795,Rice (high quality),2013-07-15,KG
 0.9883,"Rice (ordinary, second quality)",2013-07-15,KG
-488.2709,Rice (paddy),2013-07-15,MT
 0.6613,Wheat flour,2013-07-15,KG
 0.7787,Sugar (white),2013-07-15,KG
 1.019,Maize flour,2013-07-15,KG
@@ -4069,8 +3963,6 @@ usdprice,commodity,date,unit
 0.8317,Potatoes,2013-07-15,KG
 1.1299,Rice (high quality),2013-07-15,KG
 1.0107,"Rice (ordinary, second quality)",2013-07-15,KG
-509.5001,Rice (paddy),2013-07-15,MT
-902.2397,Rice (white),2013-07-15,MT
 0.1061,"Eggs (white, AA)",2013-07-15,Unit
 9.5531,Fish (dry),2013-07-15,KG
 1.8576,Fish (tilapia),2013-07-15,Libra
@@ -4082,7 +3974,6 @@ usdprice,commodity,date,unit
 1.019,Sugar,2013-07-15,KG
 4.3934,Fuel (diesel),2013-07-15,Gallon
 4.5855,Fuel (petrol-gasoline),2013-07-15,Gallon
-312.8649,"Wage (non-qualified labour, non-agricultural)",2013-07-15,Month
 2.064,Oil (vegetable),2013-07-15,L
 1.6983,Chickpeas (imported),2013-07-15,KG
 1.3268,Lentils (imported),2013-07-15,KG
@@ -4100,11 +3991,7 @@ usdprice,commodity,date,unit
 0.846,Tomatoes,2013-07-15,KG
 0.4564,Maize (yellow),2013-07-15,KG
 0.7791,Sugar (white),2013-07-15,KG
-460.1422,Rice (paddy),2013-07-15,MT
-1040.2293,Rice (white),2013-07-15,MT
 0.5095,Potatoes,2013-07-15,KG
-477.9593,Rice (paddy),2013-07-15,MT
-1015.8157,Rice (white),2013-07-15,MT
 1.5697,Fish (tilapia),2013-07-15,Libra
 4.3196,Fuel (diesel),2013-07-15,Gallon
 1.6983,"Peas (green, dry)",2013-07-15,KG
@@ -4129,7 +4016,6 @@ usdprice,commodity,date,unit
 0.5261,Cassava (dry),2013-08-15,KG
 0.4907,Maize (white),2013-08-15,KG
 0.5261,Potatoes,2013-08-15,KG
-452.4673,Rice (paddy),2013-08-15,MT
 0.1789,"Eggs (white, AA)",2013-08-15,Unit
 2.1045,Fish (tilapia),2013-08-15,Libra
 7.2605,Meat (beef),2013-08-15,KG
@@ -4152,8 +4038,6 @@ usdprice,commodity,date,unit
 0.684,Tomatoes,2013-08-15,KG
 1.0237,Rice (high quality),2013-08-15,KG
 0.9752,"Rice (ordinary, second quality)",2013-08-15,KG
-485.087,Rice (paddy),2013-08-15,MT
-1010.2647,Rice (white),2013-08-15,MT
 0.6438,Wheat flour,2013-08-15,KG
 0.7695,Sugar (white),2013-08-15,KG
 0.4819,Cassava (dry),2013-08-15,KG
@@ -4161,8 +4045,6 @@ usdprice,commodity,date,unit
 0.7518,Potatoes,2013-08-15,KG
 1.0651,Rice (high quality),2013-08-15,KG
 0.9462,"Rice (ordinary, second quality)",2013-08-15,KG
-478.5483,Rice (paddy),2013-08-15,MT
-894.412,Rice (white),2013-08-15,MT
 0.7439,Wheat flour,2013-08-15,KG
 0.1052,"Eggs (white, AA)",2013-08-15,Unit
 9.4702,Fish (dry),2013-08-15,KG
@@ -4174,7 +4056,6 @@ usdprice,commodity,date,unit
 0.8539,Sugar,2013-08-15,KG
 4.3553,Fuel (diesel),2013-08-15,Gallon
 4.5489,Fuel (petrol-gasoline),2013-08-15,Gallon
-310.1505,"Wage (non-qualified labour, non-agricultural)",2013-08-15,Month
 2.0187,Oil (vegetable),2013-08-15,L
 2.638,Beans (red),2013-08-15,KG
 1.8304,Chickpeas (imported),2013-08-15,KG
@@ -4193,11 +4074,7 @@ usdprice,commodity,date,unit
 0.4546,Maize (yellow),2013-08-15,KG
 0.645,Wheat flour,2013-08-15,KG
 0.7566,Sugar (white),2013-08-15,KG
-456.1501,Rice (paddy),2013-08-15,MT
-1031.2045,Rice (white),2013-08-15,MT
 0.4209,Potatoes,2013-08-15,KG
-471.4078,Rice (paddy),2013-08-15,MT
-995.0071,Rice (white),2013-08-15,MT
 4.2763,Fuel (diesel),2013-08-15,Gallon
 4.46,Fuel (petrol-gasoline),2013-08-15,Gallon
 0.6313,"Beans (red, fresh)",2013-08-15,KG
@@ -4212,7 +4089,6 @@ usdprice,commodity,date,unit
 0.497,Maize (white),2013-09-15,KG
 0.4156,Potatoes,2013-09-15,KG
 1.1485,Rice (high quality),2013-09-15,KG
-389.6023,Rice (paddy),2013-09-15,MT
 0.1766,"Eggs (white, AA)",2013-09-15,Unit
 2.2077,Fish (tilapia),2013-09-15,Libra
 7.2206,Meat (beef),2013-09-15,KG
@@ -4233,13 +4109,10 @@ usdprice,commodity,date,unit
 0.4156,Oranges (big size),2013-09-15,KG
 0.5714,Plantains,2013-09-15,KG
 0.4156,Tomatoes,2013-09-15,KG
-477.9121,Rice (paddy),2013-09-15,MT
-893.4879,Rice (white),2013-09-15,MT
 0.6312,Wheat flour,2013-09-15,KG
 0.601,Maize (yellow),2013-09-15,KG
 0.9143,Maize flour,2013-09-15,KG
 2.1194,Pasta,2013-09-15,KG
-909.072,Rice (white),2013-09-15,MT
 0.7273,Wheat flour,2013-09-15,KG
 0.1091,"Eggs (white, AA)",2013-09-15,Unit
 9.3505,Fish (dry),2013-09-15,KG
@@ -4252,7 +4125,6 @@ usdprice,commodity,date,unit
 0.8312,Sugar,2013-09-15,KG
 0.7475,Sugar (white),2013-09-15,KG
 4.4913,Fuel (petrol-gasoline),2013-09-15,Gallon
-306.2274,"Wage (non-qualified labour, non-agricultural)",2013-09-15,Month
 1.9911,Oil (vegetable),2013-09-15,L
 0.9896,Lentils (imported),2013-09-15,KG
 1.2363,"Peas (green, dry)",2013-09-15,KG
@@ -4269,11 +4141,7 @@ usdprice,commodity,date,unit
 0.4364,Maize (yellow),2013-09-15,KG
 1.1247,Rice (high quality),2013-09-15,KG
 0.6358,Wheat flour,2013-09-15,KG
-450.3803,Rice (paddy),2013-09-15,MT
-1018.1607,Rice (white),2013-09-15,MT
 0.2286,Potatoes,2013-09-15,KG
-454.7589,Rice (paddy),2013-09-15,MT
-951.9283,Rice (white),2013-09-15,MT
 1.6389,Fish (tilapia),2013-09-15,Libra
 4.4035,Fuel (petrol-gasoline),2013-09-15,Gallon
 1.1428,"Peas (green, dry)",2013-09-15,KG
@@ -4290,8 +4158,6 @@ usdprice,commodity,date,unit
 0.4116,Maize (white),2013-10-15,KG
 0.478,Maize (yellow),2013-10-15,KG
 0.3718,Potatoes,2013-10-15,KG
-406.3249,Rice (paddy),2013-10-15,MT
-920.6487,Rice (white),2013-10-15,MT
 0.1806,"Eggs (white, AA)",2013-10-15,Unit
 7.3829,Meat (beef),2013-10-15,KG
 2.4433,Meat (chicken),2013-10-15,KG
@@ -4309,12 +4175,10 @@ usdprice,commodity,date,unit
 0.7436,Onions (white),2013-10-15,KG
 0.3718,Oranges (big size),2013-10-15,KG
 1.0536,Rice (high quality),2013-10-15,KG
-913.567,Rice (white),2013-10-15,MT
 0.6337,Wheat flour,2013-10-15,KG
 0.7249,Sugar (white),2013-10-15,KG
 0.5396,Maize (yellow),2013-10-15,KG
 2.2053,Pasta,2013-10-15,KG
-509.8979,Rice (paddy),2013-10-15,MT
 8.5424,Fish (dry),2013-10-15,KG
 1.859,Fish (tilapia),2013-10-15,Libra
 6.5862,Meat (beef),2013-10-15,KG
@@ -4323,7 +4187,6 @@ usdprice,commodity,date,unit
 8.4983,Coffee,2013-10-15,Libra
 0.7287,Sugar (white),2013-10-15,KG
 4.3926,Fuel (diesel),2013-10-15,Gallon
-313.1092,"Wage (non-qualified labour, non-agricultural)",2013-10-15,Month
 2.1155,Oil (vegetable),2013-10-15,L
 2.7619,Beans (red),2013-10-15,KG
 0.5667,Bananas,2013-10-15,KG
@@ -4339,10 +4202,7 @@ usdprice,commodity,date,unit
 0.4472,Maize (yellow),2013-10-15,KG
 1.1021,Rice (high quality),2013-10-15,KG
 0.7303,Sugar (white),2013-10-15,KG
-1041.0415,Rice (white),2013-10-15,MT
 0.2125,Potatoes,2013-10-15,KG
-450.7136,Rice (paddy),2013-10-15,MT
-949.9503,Rice (white),2013-10-15,MT
 4.4297,Fuel (petrol-gasoline),2013-10-15,Gallon
 1.6465,Apples (red),2013-10-15,KG
 0.6374,Bananas,2013-10-15,KG
@@ -4384,8 +4244,6 @@ usdprice,commodity,date,unit
 0.4173,Oranges (big size),2013-11-15,KG
 0.5738,Plantains,2013-11-15,KG
 1.0354,Rice (high quality),2013-11-15,KG
-479.8915,Rice (paddy),2013-11-15,MT
-886.756,Rice (white),2013-11-15,MT
 0.6,Wheat flour,2013-11-15,KG
 0.7061,Sugar (white),2013-11-15,KG
 0.4267,Cassava (dry),2013-11-15,KG
@@ -4394,7 +4252,6 @@ usdprice,commodity,date,unit
 2.1699,Pasta,2013-11-15,KG
 0.4783,Potatoes,2013-11-15,KG
 1.0264,Rice (high quality),2013-11-15,KG
-500.7564,Rice (paddy),2013-11-15,MT
 0.0996,"Eggs (white, AA)",2013-11-15,Unit
 6.4681,Meat (beef),2013-11-15,KG
 2.6081,Meat (chicken),2013-11-15,KG
@@ -4421,9 +4278,6 @@ usdprice,commodity,date,unit
 0.4736,Maize (yellow),2013-11-15,KG
 0.6129,Wheat flour,2013-11-15,KG
 0.7162,Sugar (white),2013-11-15,KG
-1022.3775,Rice (white),2013-11-15,MT
-438.4602,Rice (paddy),2013-11-15,MT
-930.0506,Rice (white),2013-11-15,MT
 1.4399,Fish (tilapia),2013-11-15,Libra
 4.2397,Fuel (diesel),2013-11-15,Gallon
 0.6781,"Peas (green, dry)",2013-11-15,KG
@@ -4445,7 +4299,6 @@ usdprice,commodity,date,unit
 0.4247,Maize (white),2013-12-15,KG
 0.3369,Potatoes,2013-12-15,KG
 1.1116,Rice (high quality),2013-12-15,KG
-852.2924,Rice (white),2013-12-15,MT
 0.1762,"Eggs (white, AA)",2013-12-15,Unit
 4.3049,Fuel (diesel),2013-12-15,Gallon
 1.5201,Oil (vegetable),2013-12-15,L
@@ -4471,7 +4324,6 @@ usdprice,commodity,date,unit
 0.3949,Potatoes,2013-12-15,KG
 1.0307,Rice (high quality),2013-12-15,KG
 0.9381,"Rice (ordinary, second quality)",2013-12-15,KG
-964.0121,Rice (white),2013-12-15,MT
 0.0985,"Eggs (white, AA)",2013-12-15,Unit
 1.5549,Fish (tilapia),2013-12-15,Libra
 6.4267,Meat (beef),2013-12-15,KG
@@ -4480,7 +4332,6 @@ usdprice,commodity,date,unit
 0.311,Salt,2013-12-15,KG
 0.9847,Sugar,2013-12-15,KG
 0.7418,Sugar (white),2013-12-15,KG
-305.5296,"Wage (non-qualified labour, non-agricultural)",2013-12-15,Month
 2.2457,Oil (vegetable),2013-12-15,L
 0.9329,Lentils (imported),2013-12-15,KG
 0.9329,"Peas (green, dry)",2013-12-15,KG
@@ -4494,7 +4345,6 @@ usdprice,commodity,date,unit
 0.5784,Plantains,2013-12-15,KG
 0.4162,Maize (yellow),2013-12-15,KG
 0.6064,Wheat flour,2013-12-15,KG
-394.7863,Rice (paddy),2013-12-15,MT
 1.3285,Fish (tilapia),2013-12-15,Libra
 4.2126,Fuel (diesel),2013-12-15,Gallon
 1.2439,"Peas (green, dry)",2013-12-15,KG
@@ -4516,8 +4366,6 @@ usdprice,commodity,date,unit
 0.5148,Maize (yellow),2014-01-15,KG
 0.4118,Potatoes,2014-01-15,KG
 1.1064,Rice (high quality),2014-01-15,KG
-344.9181,Rice (paddy),2014-01-15,MT
-860.2927,Rice (white),2014-01-15,MT
 0.0952,"Eggs (white, AA)",2014-01-15,Unit
 2.3166,Fish (tilapia),2014-01-15,Libra
 7.3617,Meat (beef),2014-01-15,KG
@@ -4536,8 +4384,6 @@ usdprice,commodity,date,unit
 0.6692,Onions (white),2014-01-15,KG
 0.4633,Oranges (big size),2014-01-15,KG
 1.0304,Rice (high quality),2014-01-15,KG
-431.4051,Rice (paddy),2014-01-15,MT
-823.6851,Rice (white),2014-01-15,MT
 0.5962,Wheat flour,2014-01-15,KG
 0.703,Sugar (white),2014-01-15,KG
 0.4278,Cassava (dry),2014-01-15,KG
@@ -4545,8 +4391,6 @@ usdprice,commodity,date,unit
 2.3475,Pasta,2014-01-15,KG
 0.4726,Potatoes,2014-01-15,KG
 0.9105,"Rice (ordinary, second quality)",2014-01-15,KG
-494.5405,Rice (paddy),2014-01-15,MT
-961.6523,Rice (white),2014-01-15,MT
 0.7722,Wheat flour,2014-01-15,KG
 8.2369,Fish (dry),2014-01-15,KG
 2.677,Meat (chicken),2014-01-15,KG
@@ -4566,11 +4410,7 @@ usdprice,commodity,date,unit
 0.5205,Plantains,2014-01-15,KG
 0.7387,Tomatoes,2014-01-15,KG
 0.6044,Wheat flour,2014-01-15,KG
-446.3343,Rice (paddy),2014-01-15,MT
-931.176,Rice (white),2014-01-15,MT
 0.2368,Potatoes,2014-01-15,KG
-394.3099,Rice (paddy),2014-01-15,MT
-858.2798,Rice (white),2014-01-15,MT
 1.4211,Fish (tilapia),2014-01-15,Libra
 4.2332,Fuel (diesel),2014-01-15,Gallon
 4.2816,Fuel (petrol-gasoline),2014-01-15,Gallon
@@ -4591,7 +4431,6 @@ usdprice,commodity,date,unit
 0.5164,Maize (white),2014-02-15,KG
 0.4918,Maize (yellow),2014-02-15,KG
 1.0468,Rice (high quality),2014-02-15,KG
-385.2623,Rice (paddy),2014-02-15,MT
 0.091,"Eggs (white, AA)",2014-02-15,Unit
 7.0331,Meat (beef),2014-02-15,KG
 2.2624,Meat (chicken),2014-02-15,KG
@@ -4611,8 +4450,6 @@ usdprice,commodity,date,unit
 0.5902,Tomatoes,2014-02-15,KG
 0.9871,Rice (high quality),2014-02-15,KG
 0.8902,"Rice (ordinary, second quality)",2014-02-15,KG
-409.194,Rice (paddy),2014-02-15,MT
-844.8453,Rice (white),2014-02-15,MT
 0.5717,Wheat flour,2014-02-15,KG
 0.6861,Sugar (white),2014-02-15,KG
 0.419,Cassava (dry),2014-02-15,KG
@@ -4620,7 +4457,6 @@ usdprice,commodity,date,unit
 0.905,Maize flour,2014-02-15,KG
 2.2427,Pasta,2014-02-15,KG
 0.9615,Rice (high quality),2014-02-15,KG
-472.1515,Rice (paddy),2014-02-15,MT
 0.7377,Wheat flour,2014-02-15,KG
 0.0934,"Eggs (white, AA)",2014-02-15,Unit
 7.8692,Fish (dry),2014-02-15,KG
@@ -4647,10 +4483,7 @@ usdprice,commodity,date,unit
 0.39,Maize (yellow),2014-02-15,KG
 0.5695,Wheat flour,2014-02-15,KG
 0.6753,Sugar (white),2014-02-15,KG
-426.4118,Rice (paddy),2014-02-15,MT
 0.2262,Potatoes,2014-02-15,KG
-376.7095,Rice (paddy),2014-02-15,MT
-887.2513,Rice (white),2014-02-15,MT
 1.3577,Fish (tilapia),2014-02-15,Libra
 0.7869,"Peas (green, dry)",2014-02-15,KG
 1.7214,Apples (red),2014-02-15,KG
@@ -4672,8 +4505,6 @@ usdprice,commodity,date,unit
 0.5966,Maize (yellow),2014-03-15,KG
 0.5966,Potatoes,2014-03-15,KG
 1.0396,Rice (high quality),2014-03-15,KG
-427.53,Rice (paddy),2014-03-15,MT
-950.0666,Rice (white),2014-03-15,MT
 0.092,"Eggs (white, AA)",2014-03-15,Unit
 7.1089,Meat (beef),2014-03-15,KG
 2.2868,Meat (chicken),2014-03-15,KG
@@ -4693,14 +4524,11 @@ usdprice,commodity,date,unit
 0.522,Plantains,2014-03-15,KG
 1.0209,Rice (high quality),2014-03-15,KG
 0.9493,"Rice (ordinary, second quality)",2014-03-15,KG
-413.6064,Rice (paddy),2014-03-15,MT
-904.7727,Rice (white),2014-03-15,MT
 0.7198,Sugar (white),2014-03-15,KG
 0.4673,Maize (yellow),2014-03-15,KG
 0.9386,Maize flour,2014-03-15,KG
 2.2192,Pasta,2014-03-15,KG
 0.9749,Rice (high quality),2014-03-15,KG
-477.2428,Rice (paddy),2014-03-15,MT
 0.7576,Wheat flour,2014-03-15,KG
 2.5851,Meat (chicken),2014-03-15,KG
 4.408,Cheese,2014-03-15,KG
@@ -4725,10 +4553,7 @@ usdprice,commodity,date,unit
 1.0658,Rice (high quality),2014-03-15,KG
 0.5966,Wheat flour,2014-03-15,KG
 0.6945,Sugar (white),2014-03-15,KG
-431.0099,Rice (paddy),2014-03-15,MT
 0.338,Potatoes,2014-03-15,KG
-434.9158,Rice (paddy),2014-03-15,MT
-914.7153,Rice (white),2014-03-15,MT
 4.1714,Fuel (petrol-gasoline),2014-03-15,Gallon
 1.1931,"Peas (green, dry)",2014-03-15,KG
 0.7457,Bananas,2014-03-15,KG
@@ -4750,8 +4575,6 @@ usdprice,commodity,date,unit
 0.5944,Maize (yellow),2014-04-15,KG
 0.827,Potatoes,2014-04-15,KG
 1.0813,Rice (high quality),2014-04-15,KG
-472.097,Rice (paddy),2014-04-15,MT
-999.3296,Rice (white),2014-04-15,MT
 0.0956,"Eggs (white, AA)",2014-04-15,Unit
 7.3916,Meat (beef),2014-04-15,KG
 2.3777,Meat (chicken),2014-04-15,KG
@@ -4774,7 +4597,6 @@ usdprice,commodity,date,unit
 0.9821,Tomatoes,2014-04-15,KG
 1.088,Rice (high quality),2014-04-15,KG
 1.0014,"Rice (ordinary, second quality)",2014-04-15,KG
-476.8829,Rice (paddy),2014-04-15,MT
 0.607,Wheat flour,2014-04-15,KG
 0.4373,Cassava (dry),2014-04-15,KG
 0.9304,Maize (white),2014-04-15,KG
@@ -4793,7 +4615,6 @@ usdprice,commodity,date,unit
 0.8405,Sugar (white),2014-04-15,KG
 4.359,Fuel (diesel),2014-04-15,Gallon
 4.4381,Fuel (petrol-gasoline),2014-04-15,Gallon
-318.4071,"Wage (non-qualified labour, non-agricultural)",2014-04-15,Month
 2.146,Oil (vegetable),2014-04-15,L
 1.5507,Chickpeas (imported),2014-04-15,KG
 0.9868,Lentils (imported),2014-04-15,KG
@@ -4810,7 +4631,6 @@ usdprice,commodity,date,unit
 0.6477,Wheat flour,2014-04-15,KG
 0.7335,Sugar (white),2014-04-15,KG
 0.6203,Potatoes,2014-04-15,KG
-940.7484,Rice (white),2014-04-15,MT
 1.5288,Fish (tilapia),2014-04-15,Libra
 4.2938,Fuel (diesel),2014-04-15,Gallon
 4.3476,Fuel (petrol-gasoline),2014-04-15,Gallon
@@ -4831,8 +4651,6 @@ usdprice,commodity,date,unit
 0.5712,Maize (white),2014-05-15,KG
 0.3894,Maize (yellow),2014-05-15,KG
 1.1063,Rice (high quality),2014-05-15,KG
-451.7439,Rice (paddy),2014-05-15,MT
-992.3365,Rice (white),2014-05-15,MT
 7.4252,Meat (beef),2014-05-15,KG
 2.3885,Meat (chicken),2014-05-15,KG
 7.7368,Meat (pork),2014-05-15,KG
@@ -4853,8 +4671,6 @@ usdprice,commodity,date,unit
 0.4673,Oranges (big size),2014-05-15,KG
 0.5192,Plantains,2014-05-15,KG
 1.0991,Rice (high quality),2014-05-15,KG
-489.8217,Rice (paddy),2014-05-15,MT
-976.1822,Rice (white),2014-05-15,MT
 0.604,Wheat flour,2014-05-15,KG
 0.7835,Sugar (white),2014-05-15,KG
 0.4637,Cassava (dry),2014-05-15,KG
@@ -4864,8 +4680,6 @@ usdprice,commodity,date,unit
 2.1886,Pasta,2014-05-15,KG
 1.0258,Rice (high quality),2014-05-15,KG
 0.9422,"Rice (ordinary, second quality)",2014-05-15,KG
-498.476,Rice (paddy),2014-05-15,MT
-965.7973,Rice (white),2014-05-15,MT
 0.8308,Wheat flour,2014-05-15,KG
 0.1137,"Eggs (white, AA)",2014-05-15,Unit
 8.9965,Fish (dry),2014-05-15,KG
@@ -4878,7 +4692,6 @@ usdprice,commodity,date,unit
 0.958,Sugar,2014-05-15,KG
 4.3741,Fuel (diesel),2014-05-15,Gallon
 4.4442,Fuel (petrol-gasoline),2014-05-15,Gallon
-319.8554,"Wage (non-qualified labour, non-agricultural)",2014-05-15,Month
 1.5577,Chickpeas (imported),2014-05-15,KG
 0.9466,Lentils (imported),2014-05-15,KG
 1.0385,"Peas (green, dry)",2014-05-15,KG
@@ -4896,10 +4709,7 @@ usdprice,commodity,date,unit
 0.4637,Maize (yellow),2014-05-15,KG
 0.647,Wheat flour,2014-05-15,KG
 0.7628,Sugar (white),2014-05-15,KG
-450.1861,Rice (paddy),2014-05-15,MT
-919.0651,Rice (white),2014-05-15,MT
 0.4466,Potatoes,2014-05-15,KG
-449.8154,Rice (paddy),2014-05-15,MT
 1.5358,Fish (tilapia),2014-05-15,Libra
 4.3082,Fuel (diesel),2014-05-15,Gallon
 4.3585,Fuel (petrol-gasoline),2014-05-15,Gallon
@@ -4921,8 +4731,6 @@ usdprice,commodity,date,unit
 0.5288,Maize (yellow),2014-06-15,KG
 0.7404,Potatoes,2014-06-15,KG
 1.1301,Rice (high quality),2014-06-15,KG
-465.3832,Rice (paddy),2014-06-15,MT
-1021.2574,Rice (white),2014-06-15,MT
 0.1137,"Eggs (white, AA)",2014-06-15,Unit
 2.3798,Fish (tilapia),2014-06-15,Libra
 7.5625,Meat (beef),2014-06-15,KG
@@ -4941,15 +4749,12 @@ usdprice,commodity,date,unit
 0.4231,Oranges (big size),2014-06-15,KG
 0.5288,Plantains,2014-06-15,KG
 1.1209,Rice (high quality),2014-06-15,KG
-994.2277,Rice (white),2014-06-15,MT
 0.6161,Wheat flour,2014-06-15,KG
 0.4723,Cassava (dry),2014-06-15,KG
 0.9519,Maize (white),2014-06-15,KG
 0.513,Maize (yellow),2014-06-15,KG
 1.0085,Maize flour,2014-06-15,KG
 2.2,Pasta,2014-06-15,KG
-507.6907,Rice (paddy),2014-06-15,MT
-983.6508,Rice (white),2014-06-15,MT
 0.1163,"Eggs (white, AA)",2014-06-15,Unit
 8.9904,Fish (dry),2014-06-15,KG
 1.7187,Fish (tilapia),2014-06-15,Libra
@@ -4961,7 +4766,6 @@ usdprice,commodity,date,unit
 0.8343,Sugar (white),2014-06-15,KG
 4.4555,Fuel (diesel),2014-06-15,Gallon
 4.5317,Fuel (petrol-gasoline),2014-06-15,Gallon
-325.7682,"Wage (non-qualified labour, non-agricultural)",2014-06-15,Month
 0.9963,Lentils (imported),2014-06-15,KG
 1.1021,"Peas (green, dry)",2014-06-15,KG
 1.7923,Apples (red),2014-06-15,KG
@@ -4977,10 +4781,7 @@ usdprice,commodity,date,unit
 1.1576,Rice (high quality),2014-06-15,KG
 0.6431,Wheat flour,2014-06-15,KG
 0.7668,Sugar (white),2014-06-15,KG
-458.5082,Rice (paddy),2014-06-15,MT
-936.0548,Rice (white),2014-06-15,MT
 0.55,Potatoes,2014-06-15,KG
-479.5863,Rice (paddy),2014-06-15,MT
 1.5642,Fish (tilapia),2014-06-15,Libra
 4.3799,Fuel (diesel),2014-06-15,Gallon
 4.4391,Fuel (petrol-gasoline),2014-06-15,Gallon
@@ -5004,7 +4805,6 @@ usdprice,commodity,date,unit
 0.6422,Maize (yellow),2014-07-15,KG
 0.776,Potatoes,2014-07-15,KG
 1.161,Rice (high quality),2014-07-15,KG
-470.966,Rice (paddy),2014-07-15,MT
 0.1151,"Eggs (white, AA)",2014-07-15,Unit
 2.4083,Fish (tilapia),2014-07-15,Libra
 7.6532,Meat (beef),2014-07-15,KG
@@ -5026,14 +4826,12 @@ usdprice,commodity,date,unit
 1.2845,Tomatoes,2014-07-15,KG
 1.1342,Rice (high quality),2014-07-15,KG
 1.0283,"Rice (ordinary, second quality)",2014-07-15,KG
-1006.1547,Rice (white),2014-07-15,MT
 0.6145,Wheat flour,2014-07-15,KG
 0.9633,Maize (white),2014-07-15,KG
 1.049,Maize flour,2014-07-15,KG
 2.3334,Pasta,2014-07-15,KG
 0.9633,Potatoes,2014-07-15,KG
 1.087,Rice (high quality),2014-07-15,KG
-513.7811,Rice (paddy),2014-07-15,MT
 0.8028,Wheat flour,2014-07-15,KG
 0.1124,"Eggs (white, AA)",2014-07-15,Unit
 9.0982,Fish (dry),2014-07-15,KG
@@ -5046,7 +4844,6 @@ usdprice,commodity,date,unit
 0.3211,Salt,2014-07-15,KG
 1.0169,Sugar,2014-07-15,KG
 4.6685,Fuel (petrol-gasoline),2014-07-15,Gallon
-329.6762,"Wage (non-qualified labour, non-agricultural)",2014-07-15,Month
 1.6056,Chickpeas (imported),2014-07-15,KG
 1.1239,"Peas (green, dry)",2014-07-15,KG
 1.8732,Apples (red),2014-07-15,KG
@@ -5062,11 +4859,7 @@ usdprice,commodity,date,unit
 0.4351,Maize (yellow),2014-07-15,KG
 1.1448,Rice (high quality),2014-07-15,KG
 0.8167,Sugar (white),2014-07-15,KG
-464.0086,Rice (paddy),2014-07-15,MT
-947.2839,Rice (white),2014-07-15,MT
 0.5566,Potatoes,2014-07-15,KG
-485.3396,Rice (paddy),2014-07-15,MT
-1009.901,Rice (white),2014-07-15,MT
 4.4346,Fuel (diesel),2014-07-15,Gallon
 4.5743,Fuel (petrol-gasoline),2014-07-15,Gallon
 1.7126,"Peas (green, dry)",2014-07-15,KG
@@ -5090,7 +4883,6 @@ usdprice,commodity,date,unit
 0.5836,Maize (yellow),2014-08-15,KG
 0.5306,Potatoes,2014-08-15,KG
 1.1792,Rice (high quality),2014-08-15,KG
-466.9054,Rice (paddy),2014-08-15,MT
 0.1194,"Eggs (white, AA)",2014-08-15,Unit
 2.5202,Fish (tilapia),2014-08-15,Libra
 7.5872,Meat (beef),2014-08-15,KG
@@ -5110,8 +4902,6 @@ usdprice,commodity,date,unit
 0.5836,Plantains,2014-08-15,KG
 1.1296,Rice (high quality),2014-08-15,KG
 1.0192,"Rice (ordinary, second quality)",2014-08-15,KG
-530.5743,Rice (paddy),2014-08-15,MT
-1002.7855,Rice (white),2014-08-15,MT
 0.6096,Wheat flour,2014-08-15,KG
 0.789,Sugar (white),2014-08-15,KG
 0.4239,Cassava (dry),2014-08-15,KG
@@ -5121,7 +4911,6 @@ usdprice,commodity,date,unit
 0.6765,Potatoes,2014-08-15,KG
 1.0688,Rice (high quality),2014-08-15,KG
 0.9793,"Rice (ordinary, second quality)",2014-08-15,KG
-509.3514,Rice (paddy),2014-08-15,MT
 0.7959,Wheat flour,2014-08-15,KG
 1.857,Fish (tilapia),2014-08-15,Libra
 6.8847,Meat (beef),2014-08-15,KG
@@ -5131,7 +4920,6 @@ usdprice,commodity,date,unit
 7.9586,Coffee,2014-08-15,Libra
 1.0553,Sugar,2014-08-15,KG
 4.4706,Fuel (diesel),2014-08-15,Gallon
-326.8338,"Wage (non-qualified labour, non-agricultural)",2014-08-15,Month
 2.1393,Oil (vegetable),2014-08-15,L
 1.5917,Chickpeas (imported),2014-08-15,KG
 1.1089,Lentils (imported),2014-08-15,KG
@@ -5147,9 +4935,6 @@ usdprice,commodity,date,unit
 1.1455,Tomatoes,2014-08-15,KG
 0.4207,Maize (yellow),2014-08-15,KG
 1.1572,Rice (high quality),2014-08-15,KG
-460.008,Rice (paddy),2014-08-15,MT
-939.1166,Rice (white),2014-08-15,MT
-1005.4384,Rice (white),2014-08-15,MT
 1.6739,Fish (tilapia),2014-08-15,Libra
 4.3884,Fuel (diesel),2014-08-15,Gallon
 1.6713,Apples (red),2014-08-15,KG
@@ -5166,7 +4951,6 @@ usdprice,commodity,date,unit
 0.6543,Cassava (dry),2014-09-15,KG
 0.5536,Maize (white),2014-09-15,KG
 0.5033,Potatoes,2014-09-15,KG
-442.8787,Rice (paddy),2014-09-15,MT
 0.1132,"Eggs (white, AA)",2014-09-15,Unit
 2.617,Meat (chicken),2014-09-15,KG
 0.7398,Sugar,2014-09-15,KG
@@ -5183,8 +4967,6 @@ usdprice,commodity,date,unit
 0.8556,Onions (white),2014-09-15,KG
 0.6039,Tomatoes,2014-09-15,KG
 1.1027,Rice (high quality),2014-09-15,KG
-503.2713,Rice (paddy),2014-09-15,MT
-951.1827,Rice (white),2014-09-15,MT
 0.5805,Wheat flour,2014-09-15,KG
 0.4494,Cassava (dry),2014-09-15,KG
 0.9059,Maize (white),2014-09-15,KG
@@ -5192,7 +4974,6 @@ usdprice,commodity,date,unit
 0.9311,Maize flour,2014-09-15,KG
 0.5803,Potatoes,2014-09-15,KG
 1.0174,Rice (high quality),2014-09-15,KG
-483.1404,Rice (paddy),2014-09-15,MT
 0.7549,Wheat flour,2014-09-15,KG
 8.5556,Fish (dry),2014-09-15,KG
 1.8873,Fish (tilapia),2014-09-15,Libra
@@ -5201,7 +4982,6 @@ usdprice,commodity,date,unit
 0.302,Salt,2014-09-15,KG
 4.2285,Fuel (diesel),2014-09-15,Gallon
 4.392,Fuel (petrol-gasoline),2014-09-15,Gallon
-310.0151,"Wage (non-qualified labour, non-agricultural)",2014-09-15,Month
 1.8425,Oil (vegetable),2014-09-15,L
 1.5098,Chickpeas (imported),2014-09-15,KG
 0.5184,Bananas,2014-09-15,KG
@@ -5217,10 +4997,6 @@ usdprice,commodity,date,unit
 0.3926,Maize (yellow),2014-09-15,KG
 0.613,Wheat flour,2014-09-15,KG
 0.7328,Sugar (white),2014-09-15,KG
-436.3362,Rice (paddy),2014-09-15,MT
-890.7901,Rice (white),2014-09-15,MT
-473.6502,Rice (paddy),2014-09-15,MT
-953.699,Rice (white),2014-09-15,MT
 1.687,Fish (tilapia),2014-09-15,Libra
 4.1439,Fuel (diesel),2014-09-15,Gallon
 4.304,Fuel (petrol-gasoline),2014-09-15,Gallon
@@ -5243,7 +5019,6 @@ usdprice,commodity,date,unit
 0.3868,Maize (white),2014-10-15,KG
 0.5077,Potatoes,2014-10-15,KG
 1.055,Rice (high quality),2014-10-15,KG
-410.9854,Rice (paddy),2014-10-15,MT
 0.1088,"Eggs (white, AA)",2014-10-15,Unit
 2.2967,Fish (tilapia),2014-10-15,Libra
 6.8659,Meat (pork),2014-10-15,KG
@@ -5260,7 +5035,6 @@ usdprice,commodity,date,unit
 0.5802,Oranges (big size),2014-10-15,KG
 1.0589,Rice (high quality),2014-10-15,KG
 0.9728,"Rice (ordinary, second quality)",2014-10-15,KG
-894.4976,Rice (white),2014-10-15,MT
 0.5565,Wheat flour,2014-10-15,KG
 0.6893,Sugar (white),2014-10-15,KG
 0.4622,Cassava (dry),2014-10-15,KG
@@ -5268,7 +5042,6 @@ usdprice,commodity,date,unit
 0.4738,Maize (yellow),2014-10-15,KG
 2.0501,Pasta,2014-10-15,KG
 0.6339,Potatoes,2014-10-15,KG
-464.1717,Rice (paddy),2014-10-15,MT
 0.1064,"Eggs (white, AA)",2014-10-15,Unit
 1.8132,Fish (tilapia),2014-10-15,Libra
 6.2857,Meat (beef),2014-10-15,KG
@@ -5295,10 +5068,7 @@ usdprice,commodity,date,unit
 0.3675,Maize (yellow),2014-10-15,KG
 1.1039,Rice (high quality),2014-10-15,KG
 0.5875,Wheat flour,2014-10-15,KG
-419.2051,Rice (paddy),2014-10-15,MT
 0.3385,Potatoes,2014-10-15,KG
-427.9775,Rice (paddy),2014-10-15,MT
-935.1127,Rice (white),2014-10-15,MT
 1.5254,Fish (tilapia),2014-10-15,Libra
 4.0161,Fuel (diesel),2014-10-15,Gallon
 4.1452,Fuel (petrol-gasoline),2014-10-15,Gallon
@@ -5316,8 +5086,6 @@ usdprice,commodity,date,unit
 0.6108,Cassava (dry),2014-11-15,KG
 0.4933,Potatoes,2014-11-15,KG
 1.0217,Rice (high quality),2014-11-15,KG
-400.9712,Rice (paddy),2014-11-15,MT
-908.3696,Rice (white),2014-11-15,MT
 0.1269,"Eggs (white, AA)",2014-11-15,Unit
 6.6718,Meat (pork),2014-11-15,KG
 0.5786,Milk (pasteurized),2014-11-15,500 ML
@@ -5334,7 +5102,6 @@ usdprice,commodity,date,unit
 0.5638,Plantains,2014-11-15,KG
 0.5638,Tomatoes,2014-11-15,KG
 0.9383,"Rice (ordinary, second quality)",2014-11-15,KG
-873.9144,Rice (white),2014-11-15,MT
 0.5417,Wheat flour,2014-11-15,KG
 0.663,Sugar (white),2014-11-15,KG
 0.5032,Cassava (dry),2014-11-15,KG
@@ -5343,7 +5110,6 @@ usdprice,commodity,date,unit
 2.0598,Pasta,2014-11-15,KG
 0.6023,Potatoes,2014-11-15,KG
 0.9718,Rice (high quality),2014-11-15,KG
-451.0526,Rice (paddy),2014-11-15,MT
 0.1283,"Eggs (white, AA)",2014-11-15,Unit
 1.7619,Fish (tilapia),2014-11-15,Libra
 6.108,Meat (beef),2014-11-15,KG
@@ -5354,7 +5120,6 @@ usdprice,commodity,date,unit
 0.7384,Sugar (white),2014-11-15,KG
 3.9265,Fuel (diesel),2014-11-15,Gallon
 4.052,Fuel (petrol-gasoline),2014-11-15,Gallon
-289.4254,"Wage (non-qualified labour, non-agricultural)",2014-11-15,Month
 2.002,Oil (vegetable),2014-11-15,L
 1.1558,Lentils (imported),2014-11-15,KG
 0.9491,"Peas (green, dry)",2014-11-15,KG
@@ -5370,9 +5135,7 @@ usdprice,commodity,date,unit
 0.5981,Plantains,2014-11-15,KG
 0.5737,Wheat flour,2014-11-15,KG
 0.6813,Sugar (white),2014-11-15,KG
-407.3569,Rice (paddy),2014-11-15,MT
 0.4041,Potatoes,2014-11-15,KG
-896.467,Rice (white),2014-11-15,MT
 1.4823,Fish (tilapia),2014-11-15,Libra
 3.8612,Fuel (diesel),2014-11-15,Gallon
 3.9697,Fuel (petrol-gasoline),2014-11-15,Gallon
@@ -5396,7 +5159,6 @@ usdprice,commodity,date,unit
 0.5356,Maize (yellow),2014-12-15,KG
 0.5356,Potatoes,2014-12-15,KG
 0.9846,Rice (high quality),2014-12-15,KG
-805.7499,Rice (white),2014-12-15,MT
 0.1112,"Eggs (white, AA)",2014-12-15,Unit
 2.1673,Meat (chicken),2014-12-15,KG
 0.4059,Milk (pasteurized),2014-12-15,500 ML
@@ -5417,15 +5179,12 @@ usdprice,commodity,date,unit
 0.515,Plantains,2014-12-15,KG
 0.4944,Tomatoes,2014-12-15,KG
 0.8388,"Rice (ordinary, second quality)",2014-12-15,KG
-387.3094,Rice (paddy),2014-12-15,MT
 0.4598,Cassava (dry),2014-12-15,KG
 0.7417,Maize (white),2014-12-15,KG
 0.412,Maize (yellow),2014-12-15,KG
 1.7536,Pasta,2014-12-15,KG
 0.9016,Rice (high quality),2014-12-15,KG
 0.8175,"Rice (ordinary, second quality)",2014-12-15,KG
-395.5501,Rice (paddy),2014-12-15,MT
-766.3782,Rice (white),2014-12-15,MT
 0.1121,"Eggs (white, AA)",2014-12-15,Unit
 6.5925,Fish (dry),2014-12-15,KG
 5.3564,Meat (beef),2014-12-15,KG
@@ -5436,7 +5195,6 @@ usdprice,commodity,date,unit
 0.6902,Sugar (white),2014-12-15,KG
 3.4021,Fuel (diesel),2014-12-15,Gallon
 3.5002,Fuel (petrol-gasoline),2014-12-15,Gallon
-253.8113,"Wage (non-qualified labour, non-agricultural)",2014-12-15,Month
 1.0301,Lentils (imported),2014-12-15,KG
 0.8982,"Peas (green, dry)",2014-12-15,KG
 1.2361,Apples (red),2014-12-15,KG
@@ -5450,7 +5208,6 @@ usdprice,commodity,date,unit
 0.5039,Wheat flour,2014-12-15,KG
 0.604,Sugar (white),2014-12-15,KG
 0.3708,Potatoes,2014-12-15,KG
-380.0107,Rice (paddy),2014-12-15,MT
 3.4281,Fuel (petrol-gasoline),2014-12-15,Gallon
 1.1537,"Peas (green, dry)",2014-12-15,KG
 1.4009,Apples (red),2014-12-15,KG
@@ -5470,7 +5227,6 @@ usdprice,commodity,date,unit
 0.6639,Cassava (dry),2015-01-15,KG
 0.3942,Maize (yellow),2015-01-15,KG
 0.6639,Potatoes,2015-01-15,KG
-381.7427,Rice (paddy),2015-01-15,MT
 1.971,Fish (tilapia),2015-01-15,Libra
 5.6432,Meat (beef),2015-01-15,KG
 2.1826,Meat (chicken),2015-01-15,KG
@@ -5491,15 +5247,11 @@ usdprice,commodity,date,unit
 0.8299,Tomatoes,2015-01-15,KG
 1.0378,Rice (high quality),2015-01-15,KG
 0.9149,"Rice (ordinary, second quality)",2015-01-15,KG
-438.1743,Rice (paddy),2015-01-15,MT
-871.3693,Rice (white),2015-01-15,MT
 0.6386,Sugar (white),2015-01-15,KG
 0.4701,Cassava (dry),2015-01-15,KG
 0.7801,Maize flour,2015-01-15,KG
 1.7261,Pasta,2015-01-15,KG
 1.065,Rice (high quality),2015-01-15,KG
-464.7303,Rice (paddy),2015-01-15,MT
-870.5394,Rice (white),2015-01-15,MT
 0.105,"Eggs (white, AA)",2015-01-15,Unit
 6.639,Fish (dry),2015-01-15,KG
 1.556,Fish (tilapia),2015-01-15,Libra
@@ -5507,7 +5259,6 @@ usdprice,commodity,date,unit
 6.4315,Coffee,2015-01-15,Libra
 0.7967,Sugar,2015-01-15,KG
 0.719,Sugar (white),2015-01-15,KG
-267.3651,"Wage (non-qualified labour, non-agricultural)",2015-01-15,Month
 1.2448,Chickpeas (imported),2015-01-15,KG
 0.8714,"Peas (green, dry)",2015-01-15,KG
 1.1228,Apples (red),2015-01-15,KG
@@ -5520,9 +5271,6 @@ usdprice,commodity,date,unit
 0.6108,Tomatoes,2015-01-15,KG
 0.3349,Maize (yellow),2015-01-15,KG
 1.0656,Rice (high quality),2015-01-15,KG
-444.8133,Rice (paddy),2015-01-15,MT
-912.8631,Rice (white),2015-01-15,MT
-435.8033,Rice (paddy),2015-01-15,MT
 3.3336,Fuel (diesel),2015-01-15,Gallon
 3.4137,Fuel (petrol-gasoline),2015-01-15,Gallon
 0.9959,"Peas (green, dry)",2015-01-15,KG
@@ -5548,8 +5296,6 @@ usdprice,commodity,date,unit
 0.4006,Maize (white),2015-02-15,KG
 0.4249,Maize (yellow),2015-02-15,KG
 1.2808,Rice (high quality),2015-02-15,KG
-475.5081,Rice (paddy),2015-02-15,MT
-1124.1323,Rice (white),2015-02-15,MT
 3.3229,Fuel (petrol-gasoline),2015-02-15,Gallon
 1.1577,Rice (high quality),2015-02-15,KG
 1.0999,"Rice (ordinary, second quality)",2015-02-15,KG
@@ -5560,7 +5306,6 @@ usdprice,commodity,date,unit
 0.5362,Potatoes,2015-02-15,KG
 1.2255,Rice (high quality),2015-02-15,KG
 1.1438,"Rice (ordinary, second quality)",2015-02-15,KG
-1175.6179,Rice (white),2015-02-15,MT
 0.0971,"Eggs (white, AA)",2015-02-15,Unit
 1.5176,Fish (tilapia),2015-02-15,Libra
 2.3472,Meat (chicken),2015-02-15,KG
@@ -5568,7 +5313,6 @@ usdprice,commodity,date,unit
 0.6958,Sugar (white),2015-02-15,KG
 3.2411,Fuel (diesel),2015-02-15,Gallon
 3.3443,Fuel (petrol-gasoline),2015-02-15,Gallon
-260.7605,"Wage (non-qualified labour, non-agricultural)",2015-02-15,Month
 1.8822,Oil (vegetable),2015-02-15,L
 0.7313,"Peas (green, dry)",2015-02-15,KG
 0.8434,"Beans (red, fresh)",2015-02-15,KG
@@ -5580,7 +5324,6 @@ usdprice,commodity,date,unit
 0.6232,Sugar (white),2015-02-15,KG
 0.5059,Cassava (dry),2015-02-15,KG
 0.518,Potatoes,2015-02-15,KG
-1053.8068,Rice (white),2015-02-15,MT
 1.3759,Fish (tilapia),2015-02-15,Libra
 3.1978,Fuel (diesel),2015-02-15,Gallon
 3.2715,Fuel (petrol-gasoline),2015-02-15,Gallon
@@ -5589,7 +5332,6 @@ usdprice,commodity,date,unit
 0.2833,Carrots,2015-02-15,KG
 0.3076,Onions (white),2015-02-15,KG
 1.2307,Rice (high quality),2015-03-15,KG
-1095.6642,Rice (white),2015-03-15,MT
 1.8736,Fish (tilapia),2015-03-15,Libra
 2.0748,Meat (chicken),2015-03-15,KG
 5.601,Meat (pork),2015-03-15,KG
@@ -5610,7 +5352,6 @@ usdprice,commodity,date,unit
 0.7309,Maize flour,2015-03-15,KG
 1.2134,Rice (high quality),2015-03-15,KG
 1.1174,"Rice (ordinary, second quality)",2015-03-15,KG
-567.9925,Rice (paddy),2015-03-15,MT
 0.8271,Wheat flour,2015-03-15,KG
 0.0947,"Eggs (white, AA)",2015-03-15,Unit
 1.5499,Fish (tilapia),2015-03-15,Libra
@@ -5618,7 +5359,6 @@ usdprice,commodity,date,unit
 1.5783,Cocoa,2015-03-15,Libra
 0.69,Sugar (white),2015-03-15,KG
 3.0407,Fuel (diesel),2015-03-15,Gallon
-254.1569,"Wage (non-qualified labour, non-agricultural)",2015-03-15,Month
 1.7671,Oil (vegetable),2015-03-15,L
 2.5047,Beans (red),2015-03-15,KG
 1.0654,Lentils (imported),2015-03-15,KG
@@ -5632,8 +5372,6 @@ usdprice,commodity,date,unit
 0.656,Sugar (white),2015-03-15,KG
 0.5917,Cassava (dry),2015-03-15,KG
 0.5917,Potatoes,2015-03-15,KG
-487.9777,Rice (paddy),2015-03-15,MT
-1068.9303,Rice (white),2015-03-15,MT
 1.42,Fish (tilapia),2015-03-15,Libra
 3.0703,Fuel (petrol-gasoline),2015-03-15,Gallon
 0.3353,Bananas,2015-03-15,KG
@@ -5663,7 +5401,6 @@ usdprice,commodity,date,unit
 0.7339,Maize flour,2015-04-15,KG
 0.6047,Potatoes,2015-04-15,KG
 1.2109,Rice (high quality),2015-04-15,KG
-548.8632,Rice (paddy),2015-04-15,MT
 0.0957,"Eggs (white, AA)",2015-04-15,Unit
 1.5955,Fish (tilapia),2015-04-15,Libra
 2.3135,Meat (chicken),2015-04-15,KG
@@ -5671,7 +5408,6 @@ usdprice,commodity,date,unit
 0.7705,Sugar (white),2015-04-15,KG
 3.0686,Fuel (diesel),2015-04-15,Gallon
 3.1763,Fuel (petrol-gasoline),2015-04-15,Gallon
-257.0203,"Wage (non-qualified labour, non-agricultural)",2015-04-15,Month
 2.5289,Beans (red),2015-04-15,KG
 1.3753,"Peas (green, dry)",2015-04-15,KG
 0.343,Bananas,2015-04-15,KG
@@ -5685,7 +5421,6 @@ usdprice,commodity,date,unit
 0.7008,Sugar (white),2015-04-15,KG
 0.4986,Cassava (dry),2015-04-15,KG
 0.4787,Potatoes,2015-04-15,KG
-1009.2884,Rice (white),2015-04-15,MT
 3.0287,Fuel (diesel),2015-04-15,Gallon
 3.1049,Fuel (petrol-gasoline),2015-04-15,Gallon
 0.359,Bananas,2015-04-15,KG
@@ -5695,8 +5430,6 @@ usdprice,commodity,date,unit
 0.359,Onions (white),2015-04-15,KG
 0.4795,Maize (white),2015-05-15,KG
 1.2017,Rice (high quality),2015-05-15,KG
-496.8944,Rice (paddy),2015-05-15,MT
-1101.1424,Rice (white),2015-05-15,MT
 2.1781,Meat (chicken),2015-05-15,KG
 5.8799,Meat (pork),2015-05-15,KG
 3.2758,Fuel (petrol-gasoline),2015-05-15,Gallon
@@ -5715,7 +5448,6 @@ usdprice,commodity,date,unit
 0.7619,Maize flour,2015-05-15,KG
 0.5445,Potatoes,2015-05-15,KG
 1.1465,"Rice (ordinary, second quality)",2015-05-15,KG
-1068.323,Rice (white),2015-05-15,MT
 0.0994,"Eggs (white, AA)",2015-05-15,Unit
 2.0244,Fish (tilapia),2015-05-15,Libra
 0.8528,Sugar (white),2015-05-15,KG
@@ -5735,8 +5467,6 @@ usdprice,commodity,date,unit
 0.5354,Wheat flour,2015-05-15,KG
 0.3623,Cassava (dry),2015-05-15,KG
 0.4969,Potatoes,2015-05-15,KG
-521.9756,Rice (paddy),2015-05-15,MT
-1098.0261,Rice (white),2015-05-15,MT
 3.1391,Fuel (diesel),2015-05-15,Gallon
 3.2228,Fuel (petrol-gasoline),2015-05-15,Gallon
 0.7039,Bananas,2015-05-15,KG
@@ -5747,8 +5477,6 @@ usdprice,commodity,date,unit
 0.4578,Maize (white),2015-06-15,KG
 0.4436,Maize (yellow),2015-06-15,KG
 1.1128,Rice (high quality),2015-06-15,KG
-473.1861,Rice (paddy),2015-06-15,MT
-1025.2366,Rice (white),2015-06-15,MT
 1.873,Fish (tilapia),2015-06-15,Libra
 5.3628,Meat (beef),2015-06-15,KG
 2.0741,Meat (chicken),2015-06-15,KG
@@ -5776,7 +5504,6 @@ usdprice,commodity,date,unit
 0.7256,Maize flour,2015-06-15,KG
 0.4476,Potatoes,2015-06-15,KG
 1.1866,Rice (high quality),2015-06-15,KG
-452.6814,Rice (paddy),2015-06-15,MT
 0.0927,"Eggs (white, AA)",2015-06-15,Unit
 1.9716,Fish (tilapia),2015-06-15,Libra
 1.931,Meat (chicken),2015-06-15,KG
@@ -5785,7 +5512,6 @@ usdprice,commodity,date,unit
 0.7643,Sugar (white),2015-06-15,KG
 3.0919,Fuel (diesel),2015-06-15,Gallon
 3.1759,Fuel (petrol-gasoline),2015-06-15,Gallon
-254.0812,"Wage (non-qualified labour, non-agricultural)",2015-06-15,Month
 1.5595,Oil (vegetable),2015-06-15,L
 2.4298,Beans (red),2015-06-15,KG
 1.1013,Lentils (imported),2015-06-15,KG
@@ -5807,7 +5533,6 @@ usdprice,commodity,date,unit
 0.5091,Wheat flour,2015-06-15,KG
 0.7468,Sugar (white),2015-06-15,KG
 0.345,Cassava (dry),2015-06-15,KG
-1012.4606,Rice (white),2015-06-15,MT
 1.5773,Fish (tilapia),2015-06-15,Libra
 3.0485,Fuel (diesel),2015-06-15,Gallon
 3.1049,Fuel (petrol-gasoline),2015-06-15,Gallon
@@ -5844,14 +5569,11 @@ usdprice,commodity,date,unit
 0.2803,Potatoes,2015-07-15,KG
 1.0046,Rice (high quality),2015-07-15,KG
 0.9442,"Rice (ordinary, second quality)",2015-07-15,KG
-422.8937,Rice (paddy),2015-07-15,MT
-891.4659,Rice (white),2015-07-15,MT
 2.5049,Cheese,2015-07-15,KG
 0.8104,Sugar,2015-07-15,KG
 0.711,Sugar (white),2015-07-15,KG
 2.8339,Fuel (diesel),2015-07-15,Gallon
 2.9334,Fuel (petrol-gasoline),2015-07-15,Gallon
-237.362,"Wage (non-qualified labour, non-agricultural)",2015-07-15,Month
 1.0314,Lentils (imported),2015-07-15,KG
 0.8031,"Peas (green, dry)",2015-07-15,KG
 0.3746,Bananas,2015-07-15,KG
@@ -5871,8 +5593,6 @@ usdprice,commodity,date,unit
 1.0337,Rice (high quality),2015-07-15,KG
 0.4756,Wheat flour,2015-07-15,KG
 0.3223,Cassava (dry),2015-07-15,KG
-401.528,Rice (paddy),2015-07-15,MT
-910.6398,Rice (white),2015-07-15,MT
 1.4735,Fish (tilapia),2015-07-15,Libra
 2.7926,Fuel (diesel),2015-07-15,Gallon
 0.3315,Bananas,2015-07-15,KG
@@ -5887,7 +5607,6 @@ usdprice,commodity,date,unit
 0.6041,Cassava (dry),2015-08-15,KG
 0.3859,Maize (white),2015-08-15,KG
 0.912,Rice (high quality),2015-08-15,KG
-335.5954,Rice (paddy),2015-08-15,MT
 0.0738,"Eggs (white, AA)",2015-08-15,Unit
 1.8458,Fish (tilapia),2015-08-15,Libra
 4.7655,Meat (beef),2015-08-15,KG
@@ -5920,7 +5639,6 @@ usdprice,commodity,date,unit
 0.2004,Potatoes,2015-08-15,KG
 0.8793,Rice (high quality),2015-08-15,KG
 0.8093,"Rice (ordinary, second quality)",2015-08-15,KG
-818.8528,Rice (white),2015-08-15,MT
 0.0822,"Eggs (white, AA)",2015-08-15,Unit
 1.678,Fish (tilapia),2015-08-15,Libra
 1.9055,Meat (chicken),2015-08-15,KG
@@ -5931,7 +5649,6 @@ usdprice,commodity,date,unit
 0.661,Sugar (white),2015-08-15,KG
 2.6029,Fuel (diesel),2015-08-15,Gallon
 2.7559,Fuel (petrol-gasoline),2015-08-15,Gallon
-216.2409,"Wage (non-qualified labour, non-agricultural)",2015-08-15,Month
 1.2618,Oil (vegetable),2015-08-15,L
 2.1441,Beans (red),2015-08-15,KG
 1.0467,Lentils (imported),2015-08-15,KG
@@ -5955,7 +5672,6 @@ usdprice,commodity,date,unit
 0.6219,Sugar (white),2015-08-15,KG
 0.2936,Cassava (dry),2015-08-15,KG
 0.1678,Potatoes,2015-08-15,KG
-350.17,Rice (paddy),2015-08-15,MT
 1.4766,Fish (tilapia),2015-08-15,Libra
 2.57,Fuel (diesel),2015-08-15,Gallon
 2.6955,Fuel (petrol-gasoline),2015-08-15,Gallon
@@ -5971,8 +5687,6 @@ usdprice,commodity,date,unit
 0.386,Maize (white),2015-09-15,KG
 0.3846,Maize (yellow),2015-09-15,KG
 0.8929,Rice (high quality),2015-09-15,KG
-341.7446,Rice (paddy),2015-09-15,MT
-808.4281,Rice (white),2015-09-15,MT
 1.819,Fish (tilapia),2015-09-15,Libra
 4.4978,Meat (beef),2015-09-15,KG
 1.7396,Meat (chicken),2015-09-15,KG
@@ -5996,13 +5710,11 @@ usdprice,commodity,date,unit
 0.6284,Maize (white),2015-09-15,KG
 0.1915,Potatoes,2015-09-15,KG
 0.8025,"Rice (ordinary, second quality)",2015-09-15,KG
-798.139,Rice (white),2015-09-15,MT
 0.6614,Wheat flour,2015-09-15,KG
 2.2489,Cheese,2015-09-15,KG
 1.356,Cocoa,2015-09-15,Libra
 0.7673,Sugar,2015-09-15,KG
 2.6924,Fuel (petrol-gasoline),2015-09-15,Gallon
-213.0998,"Wage (non-qualified labour, non-agricultural)",2015-09-15,Month
 2.1166,Beans (red),2015-09-15,KG
 1.0451,Lentils (imported),2015-09-15,KG
 0.7276,"Peas (green, dry)",2015-09-15,KG
@@ -6021,8 +5733,6 @@ usdprice,commodity,date,unit
 0.6469,Sugar (white),2015-09-15,KG
 0.2894,Cassava (dry),2015-09-15,KG
 0.3506,Potatoes,2015-09-15,KG
-366.7533,Rice (paddy),2015-09-15,MT
-816.6815,Rice (white),2015-09-15,MT
 2.5052,Fuel (diesel),2015-09-15,Gallon
 2.6329,Fuel (petrol-gasoline),2015-09-15,Gallon
 0.3142,Bananas,2015-09-15,KG
@@ -6037,7 +5747,6 @@ usdprice,commodity,date,unit
 0.4035,Maize (white),2015-10-15,KG
 0.4021,Maize (yellow),2015-10-15,KG
 0.9335,Rice (high quality),2015-10-15,KG
-363.0178,Rice (paddy),2015-10-15,MT
 0.0882,"Eggs (white, AA)",2015-10-15,Unit
 1.9015,Fish (tilapia),2015-10-15,Libra
 1.8185,Meat (chicken),2015-10-15,KG
@@ -6065,8 +5774,6 @@ usdprice,commodity,date,unit
 0.6915,Maize flour,2015-10-15,KG
 0.2769,Potatoes,2015-10-15,KG
 0.9088,Rice (high quality),2015-10-15,KG
-417.6434,Rice (paddy),2015-10-15,MT
-847.0416,Rice (white),2015-10-15,MT
 0.6915,Wheat flour,2015-10-15,KG
 0.0944,"Eggs (white, AA)",2015-10-15,Unit
 1.7287,Fish (tilapia),2015-10-15,Libra
@@ -6094,8 +5801,6 @@ usdprice,commodity,date,unit
 0.4633,Wheat flour,2015-10-15,KG
 0.7167,Sugar (white),2015-10-15,KG
 0.2628,Potatoes,2015-10-15,KG
-393.7018,Rice (paddy),2015-10-15,MT
-866.1259,Rice (white),2015-10-15,MT
 1.4521,Fish (tilapia),2015-10-15,Libra
 2.964,Fuel (petrol-gasoline),2015-10-15,Gallon
 0.3112,Bananas,2015-10-15,KG
@@ -6108,7 +5813,6 @@ usdprice,commodity,date,unit
 0.4834,Cassava (dry),2015-11-15,KG
 0.4321,Maize (white),2015-11-15,KG
 0.9002,Rice (high quality),2015-11-15,KG
-355.0633,Rice (paddy),2015-11-15,MT
 0.09,"Eggs (white, AA)",2015-11-15,Unit
 1.8337,Fish (tilapia),2015-11-15,Libra
 0.3604,Milk (pasteurized),2015-11-15,500 ML
@@ -6135,8 +5839,6 @@ usdprice,commodity,date,unit
 0.3067,Potatoes,2015-11-15,KG
 0.8724,Rice (high quality),2015-11-15,KG
 0.8107,"Rice (ordinary, second quality)",2015-11-15,KG
-405.4056,Rice (paddy),2015-11-15,MT
-853.4855,Rice (white),2015-11-15,MT
 0.6001,Wheat flour,2015-11-15,KG
 0.0933,"Eggs (white, AA)",2015-11-15,Unit
 1.9337,Meat (chicken),2015-11-15,KG
@@ -6159,7 +5861,6 @@ usdprice,commodity,date,unit
 0.7668,Sugar (white),2015-11-15,KG
 0.2917,Cassava (dry),2015-11-15,KG
 0.24,Potatoes,2015-11-15,KG
-835.2156,Rice (white),2015-11-15,MT
 2.5024,Fuel (diesel),2015-11-15,Gallon
 2.5755,Fuel (petrol-gasoline),2015-11-15,Gallon
 0.4667,Bananas,2015-11-15,KG
@@ -6173,8 +5874,6 @@ usdprice,commodity,date,unit
 0.3822,Maize (white),2015-12-15,KG
 0.3997,Maize (yellow),2015-12-15,KG
 0.8145,Rice (high quality),2015-12-15,KG
-322.7753,Rice (paddy),2015-12-15,MT
-748.5614,Rice (white),2015-12-15,MT
 0.0845,"Eggs (white, AA)",2015-12-15,Unit
 1.9608,Fish (tilapia),2015-12-15,Libra
 4.5249,Meat (beef),2015-12-15,KG
@@ -6209,8 +5908,6 @@ usdprice,commodity,date,unit
 0.4223,Potatoes,2015-12-15,KG
 0.8303,Rice (high quality),2015-12-15,KG
 0.7657,"Rice (ordinary, second quality)",2015-12-15,KG
-392.559,Rice (paddy),2015-12-15,MT
-776.2694,Rice (white),2015-12-15,MT
 0.6033,Wheat flour,2015-12-15,KG
 0.0845,"Eggs (white, AA)",2015-12-15,Unit
 1.5083,Fish (tilapia),2015-12-15,Libra
@@ -6219,7 +5916,6 @@ usdprice,commodity,date,unit
 0.2715,"Sugar (brown, loaf)",2015-12-15,KG
 0.7195,Sugar (white),2015-12-15,KG
 2.2531,Fuel (diesel),2015-12-15,Gallon
-194.3741,"Wage (non-qualified labour, non-agricultural)",2015-12-15,Month
 1.2821,Oil (vegetable),2015-12-15,L
 2.5219,Beans (red),2015-12-15,KG
 1.0799,Lentils (imported),2015-12-15,KG
@@ -6240,7 +5936,6 @@ usdprice,commodity,date,unit
 0.8567,Rice (high quality),2015-12-15,KG
 0.3771,Cassava (dry),2015-12-15,KG
 0.3499,Potatoes,2015-12-15,KG
-773.3333,Rice (white),2015-12-15,MT
 1.3122,Fish (tilapia),2015-12-15,Libra
 2.2265,Fuel (diesel),2015-12-15,Gallon
 2.3041,Fuel (petrol-gasoline),2015-12-15,Gallon
@@ -6254,7 +5949,6 @@ usdprice,commodity,date,unit
 0.3939,Cassava (dry),2016-01-15,KG
 0.4015,Maize (yellow),2016-01-15,KG
 0.8864,Rice (high quality),2016-01-15,KG
-796.2961,Rice (white),2016-01-15,MT
 0.0848,"Eggs (white, AA)",2016-01-15,Unit
 3.3333,Fish (tilapia),2016-01-15,Libra
 4.7879,Meat (beef),2016-01-15,KG
@@ -6284,7 +5978,6 @@ usdprice,commodity,date,unit
 0.6061,Maize flour,2016-01-15,KG
 0.5152,Potatoes,2016-01-15,KG
 0.9116,Rice (high quality),2016-01-15,KG
-429.697,Rice (paddy),2016-01-15,MT
 0.6061,Wheat flour,2016-01-15,KG
 0.0848,"Eggs (white, AA)",2016-01-15,Unit
 1.7576,Meat (chicken),2016-01-15,KG
@@ -6314,8 +6007,6 @@ usdprice,commodity,date,unit
 0.7655,Sugar (white),2016-01-15,KG
 0.2652,Cassava (dry),2016-01-15,KG
 0.4545,Potatoes,2016-01-15,KG
-383.3333,Rice (paddy),2016-01-15,MT
-812.4242,Rice (white),2016-01-15,MT
 1.4697,Fish (tilapia),2016-01-15,Libra
 2.1952,Fuel (diesel),2016-01-15,Gallon
 0.2727,Bananas,2016-01-15,KG
@@ -6328,7 +6019,6 @@ usdprice,commodity,date,unit
 0.7245,Onions (red),2016-01-15,KG
 0.5455,Onions (white),2016-01-15,KG
 0.9769,Rice (high quality),2016-02-15,KG
-838.7605,Rice (white),2016-02-15,MT
 0.0829,"Eggs (white, AA)",2016-02-15,Unit
 1.6282,Fish (tilapia),2016-02-15,Libra
 4.6773,Meat (beef),2016-02-15,KG
@@ -6358,7 +6048,6 @@ usdprice,commodity,date,unit
 0.3552,Maize (yellow),2016-02-15,KG
 0.5921,Maize flour,2016-02-15,KG
 0.9546,Rice (high quality),2016-02-15,KG
-481.942,Rice (paddy),2016-02-15,MT
 0.5033,Wheat flour,2016-02-15,KG
 0.077,"Eggs (white, AA)",2016-02-15,Unit
 1.3025,Fish (tilapia),2016-02-15,Libra
@@ -6368,7 +6057,6 @@ usdprice,commodity,date,unit
 0.7553,Sugar (white),2016-02-15,KG
 2.1661,Fuel (diesel),2016-02-15,Gallon
 2.2848,Fuel (petrol-gasoline),2016-02-15,Gallon
-204.1015,"Wage (non-qualified labour, non-agricultural)",2016-02-15,Month
 2.4748,Beans (red),2016-02-15,KG
 1.4802,Lentils (imported),2016-02-15,KG
 0.6454,"Peas (green, dry)",2016-02-15,KG
@@ -6389,8 +6077,6 @@ usdprice,commodity,date,unit
 0.7324,Sugar (white),2016-02-15,KG
 0.259,Cassava (dry),2016-02-15,KG
 0.4026,Potatoes,2016-02-15,KG
-425.2729,Rice (paddy),2016-02-15,MT
-890.4085,Rice (white),2016-02-15,MT
 1.5444,Fish (tilapia),2016-02-15,Libra
 2.1445,Fuel (diesel),2016-02-15,Gallon
 2.2303,Fuel (petrol-gasoline),2016-02-15,Gallon
@@ -6403,8 +6089,6 @@ usdprice,commodity,date,unit
 0.6513,Spinach,2016-02-15,KG
 0.3561,Maize (white),2016-03-15,KG
 0.3756,Maize (yellow),2016-03-15,KG
-387.2905,Rice (paddy),2016-03-15,MT
-934.4151,Rice (white),2016-03-15,MT
 4.9953,Meat (beef),2016-03-15,KG
 1.6598,Meat (chicken),2016-03-15,KG
 0.5659,Sugar,2016-03-15,KG
@@ -6433,8 +6117,6 @@ usdprice,commodity,date,unit
 0.3794,Maize (yellow),2016-03-15,KG
 0.4806,Potatoes,2016-03-15,KG
 1.0291,Rice (high quality),2016-03-15,KG
-435.03,Rice (paddy),2016-03-15,MT
-904.2049,Rice (white),2016-03-15,MT
 0.5375,Wheat flour,2016-03-15,KG
 1.5808,Fish (tilapia),2016-03-15,Libra
 1.8337,Meat (chicken),2016-03-15,KG
@@ -6465,8 +6147,6 @@ usdprice,commodity,date,unit
 0.4742,Wheat flour,2016-03-15,KG
 0.7724,Sugar (white),2016-03-15,KG
 0.3952,Cassava (dry),2016-03-15,KG
-407.2988,Rice (paddy),2016-03-15,MT
-956.7275,Rice (white),2016-03-15,MT
 2.2861,Fuel (diesel),2016-03-15,Gallon
 2.3481,Fuel (petrol-gasoline),2016-03-15,Gallon
 0.3162,Bananas,2016-03-15,KG
@@ -6484,8 +6164,6 @@ usdprice,commodity,date,unit
 0.3934,Maize (white),2016-04-15,KG
 0.3964,Maize (yellow),2016-04-15,KG
 1.0166,Rice (high quality),2016-04-15,KG
-400.4271,Rice (paddy),2016-04-15,MT
-907.6348,Rice (white),2016-04-15,MT
 0.0834,"Eggs (white, AA)",2016-04-15,Unit
 1.5517,Fish (tilapia),2016-04-15,Libra
 5.2723,Meat (beef),2016-04-15,KG
@@ -6512,7 +6190,6 @@ usdprice,commodity,date,unit
 0.5072,Potatoes,2016-04-15,KG
 1.0545,Rice (high quality),2016-04-15,KG
 0.9523,"Rice (ordinary, second quality)",2016-04-15,KG
-430.4592,Rice (paddy),2016-04-15,MT
 0.5673,Wheat flour,2016-04-15,KG
 0.1001,"Eggs (white, AA)",2016-04-15,Unit
 1.9354,Meat (chicken),2016-04-15,KG
@@ -6539,7 +6216,6 @@ usdprice,commodity,date,unit
 0.317,Maize (yellow),2016-04-15,KG
 1.0521,Rice (high quality),2016-04-15,KG
 0.5005,Wheat flour,2016-04-15,KG
-413.8701,Rice (paddy),2016-04-15,MT
 1.8687,Fish (tilapia),2016-04-15,Libra
 2.3989,Fuel (diesel),2016-04-15,Gallon
 2.5073,Fuel (petrol-gasoline),2016-04-15,Gallon
@@ -6554,8 +6230,6 @@ usdprice,commodity,date,unit
 0.4735,Cassava (dry),2016-05-15,KG
 0.4018,Maize (yellow),2016-05-15,KG
 0.972,Rice (high quality),2016-05-15,KG
-405.8663,Rice (paddy),2016-05-15,MT
-919.9637,Rice (white),2016-05-15,MT
 0.0846,"Eggs (white, AA)",2016-05-15,Unit
 2.7058,Fish (tilapia),2016-05-15,Libra
 5.3439,Meat (beef),2016-05-15,KG
@@ -6605,8 +6279,6 @@ usdprice,commodity,date,unit
 0.5381,Tomatoes,2016-05-15,KG
 0.2959,Cassava (dry),2016-05-15,KG
 0.5412,Potatoes,2016-05-15,KG
-424.8068,Rice (paddy),2016-05-15,MT
-932.7823,Rice (white),2016-05-15,MT
 2.4575,Fuel (diesel),2016-05-15,Gallon
 2.5769,Fuel (petrol-gasoline),2016-05-15,Gallon
 1.15,"Beans (red, fresh)",2016-05-15,KG
@@ -6653,8 +6325,6 @@ usdprice,commodity,date,unit
 0.605,Potatoes,2016-06-15,KG
 0.9707,Rice (high quality),2016-06-15,KG
 0.8844,"Rice (ordinary, second quality)",2016-06-15,KG
-376.4326,Rice (paddy),2016-06-15,MT
-806.6413,Rice (white),2016-06-15,MT
 0.1008,"Eggs (white, AA)",2016-06-15,Unit
 1.9494,Meat (chicken),2016-06-15,KG
 2.8232,Cheese,2016-06-15,KG
@@ -6662,7 +6332,6 @@ usdprice,commodity,date,unit
 0.9598,Sugar (white),2016-06-15,KG
 2.4697,Fuel (diesel),2016-06-15,Gallon
 2.6226,Fuel (petrol-gasoline),2016-06-15,Gallon
-231.7262,"Wage (non-qualified labour, non-agricultural)",2016-06-15,Month
 1.4284,Oil (vegetable),2016-06-15,L
 2.0166,Beans (red),2016-06-15,KG
 0.5378,"Beans (red, fresh)",2016-06-15,KG
@@ -6690,8 +6359,6 @@ usdprice,commodity,date,unit
 0.5481,Cassava (dry),2016-07-15,KG
 0.4336,Maize (white),2016-07-15,KG
 0.4796,Maize (yellow),2016-07-15,KG
-345.9971,Rice (paddy),2016-07-15,MT
-938.6455,Rice (white),2016-07-15,MT
 0.0959,"Eggs (white, AA)",2016-07-15,Unit
 6.8514,Meat (beef),2016-07-15,KG
 1.8019,Meat (chicken),2016-07-15,KG
@@ -6724,7 +6391,6 @@ usdprice,commodity,date,unit
 0.4282,"Sugar (brown, loaf)",2016-07-15,KG
 2.5172,Fuel (diesel),2016-07-15,Gallon
 2.6731,Fuel (petrol-gasoline),2016-07-15,Gallon
-236.1875,"Wage (non-qualified labour, non-agricultural)",2016-07-15,Month
 1.4559,Oil (vegetable),2016-07-15,L
 2.0554,Beans (red),2016-07-15,KG
 1.7129,Lentils (imported),2016-07-15,KG
@@ -6755,7 +6421,6 @@ usdprice,commodity,date,unit
 0.8222,Onions (white),2016-07-15,KG
 0.2398,Pumpkin,2016-07-15,KG
 0.448,Maize (yellow),2016-08-15,KG
-877.2702,Rice (white),2016-08-15,MT
 0.0958,"Eggs (white, AA)",2016-08-15,Unit
 4.7878,Fish (tilapia),2016-08-15,Libra
 5.8138,Meat (beef),2016-08-15,KG
@@ -6785,8 +6450,6 @@ usdprice,commodity,date,unit
 0.2873,Potatoes,2016-08-15,KG
 0.9613,Rice (high quality),2016-08-15,KG
 0.8804,"Rice (ordinary, second quality)",2016-08-15,KG
-393.9687,Rice (paddy),2016-08-15,MT
-820.7682,Rice (white),2016-08-15,MT
 0.513,Wheat flour,2016-08-15,KG
 1.026,Fish (tilapia),2016-08-15,Libra
 2.7359,Cheese,2016-08-15,KG
@@ -6794,7 +6457,6 @@ usdprice,commodity,date,unit
 0.4702,"Sugar (brown, loaf)",2016-08-15,KG
 2.4821,Fuel (diesel),2016-08-15,Gallon
 2.6788,Fuel (petrol-gasoline),2016-08-15,Gallon
-235.7845,"Wage (non-qualified labour, non-agricultural)",2016-08-15,Month
 1.4534,Oil (vegetable),2016-08-15,L
 2.0519,Beans (red),2016-08-15,KG
 1.7099,Lentils (imported),2016-08-15,KG
@@ -6817,7 +6479,6 @@ usdprice,commodity,date,unit
 0.9097,Sugar (white),2016-08-15,KG
 0.342,Cassava (dry),2016-08-15,KG
 0.3078,Potatoes,2016-08-15,KG
-385.0771,Rice (paddy),2016-08-15,MT
 1.7783,Fish (tilapia),2016-08-15,Libra
 2.4476,Fuel (diesel),2016-08-15,Gallon
 0.3933,Bananas,2016-08-15,KG
@@ -6831,7 +6492,6 @@ usdprice,commodity,date,unit
 0.4779,Cassava (dry),2016-09-15,KG
 0.4161,Maize (yellow),2016-09-15,KG
 0.9542,Rice (high quality),2016-09-15,KG
-346.8405,Rice (paddy),2016-09-15,MT
 5.6327,Meat (beef),2016-09-15,KG
 4.7793,Meat (pork),2016-09-15,KG
 0.4202,Milk (pasteurized),2016-09-15,500 ML
@@ -6858,8 +6518,6 @@ usdprice,commodity,date,unit
 0.6486,Maize (white),2016-09-15,KG
 0.4233,Maize (yellow),2016-09-15,KG
 0.8193,"Rice (ordinary, second quality)",2016-09-15,KG
-393.268,Rice (paddy),2016-09-15,MT
-75.1033,Rice (white),2016-09-15,MT
 0.5121,Wheat flour,2016-09-15,KG
 0.1024,"Eggs (white, AA)",2016-09-15,Unit
 2.731,Cheese,2016-09-15,KG
@@ -6868,7 +6526,6 @@ usdprice,commodity,date,unit
 0.4694,"Sugar (brown, loaf)",2016-09-15,KG
 0.8167,Sugar (white),2016-09-15,KG
 2.5231,Fuel (diesel),2016-09-15,Gallon
-235.3651,"Wage (non-qualified labour, non-agricultural)",2016-09-15,Month
 1.4509,Oil (vegetable),2016-09-15,L
 1.7069,Beans (red),2016-09-15,KG
 1.7069,Lentils (imported),2016-09-15,KG
@@ -6890,7 +6547,6 @@ usdprice,commodity,date,unit
 0.5121,Wheat flour,2016-09-15,KG
 0.786,Sugar (white),2016-09-15,KG
 0.2987,Cassava (dry),2016-09-15,KG
-363.2267,Rice (paddy),2016-09-15,MT
 2.3214,Fish (tilapia),2016-09-15,Libra
 2.4907,Fuel (diesel),2016-09-15,Gallon
 2.6481,Fuel (petrol-gasoline),2016-09-15,Gallon
@@ -6907,8 +6563,6 @@ usdprice,commodity,date,unit
 0.4065,Maize (white),2016-10-15,KG
 0.398,Maize (yellow),2016-10-15,KG
 0.9444,Rice (high quality),2016-10-15,KG
-335.3419,Rice (paddy),2016-10-15,MT
-722.3919,Rice (white),2016-10-15,MT
 3.764,Fish (tilapia),2016-10-15,Libra
 5.6461,Meat (beef),2016-10-15,KG
 1.7999,Meat (chicken),2016-10-15,KG
@@ -6934,7 +6588,6 @@ usdprice,commodity,date,unit
 0.6502,Maize (white),2016-10-15,KG
 0.4243,Maize (yellow),2016-10-15,KG
 0.2601,Potatoes,2016-10-15,KG
-394.1979,Rice (paddy),2016-10-15,MT
 0.1027,"Eggs (white, AA)",2016-10-15,Unit
 1.0266,Fish (tilapia),2016-10-15,Libra
 2.3953,Meat (chicken),2016-10-15,KG
@@ -6945,7 +6598,6 @@ usdprice,commodity,date,unit
 0.8109,Sugar (white),2016-10-15,KG
 2.5291,Fuel (diesel),2016-10-15,Gallon
 2.7149,Fuel (petrol-gasoline),2016-10-15,Gallon
-235.9216,"Wage (non-qualified labour, non-agricultural)",2016-10-15,Month
 1.4543,Oil (vegetable),2016-10-15,L
 1.7109,Lentils (imported),2016-10-15,KG
 0.787,"Peas (green, dry)",2016-10-15,KG
@@ -6976,7 +6628,6 @@ usdprice,commodity,date,unit
 0.3728,Maize (white),2016-11-15,KG
 0.3769,Maize (yellow),2016-11-15,KG
 0.8851,Rice (high quality),2016-11-15,KG
-320.6989,Rice (paddy),2016-11-15,MT
 0.0866,"Eggs (white, AA)",2016-11-15,Unit
 3.5277,Fish (tilapia),2016-11-15,Libra
 5.2915,Meat (beef),2016-11-15,KG
@@ -7007,7 +6658,6 @@ usdprice,commodity,date,unit
 0.2566,Potatoes,2016-11-15,KG
 0.7681,Rice (high quality),2016-11-15,KG
 0.7064,"Rice (ordinary, second quality)",2016-11-15,KG
-369.4451,Rice (paddy),2016-11-15,MT
 0.481,Wheat flour,2016-11-15,KG
 0.0962,"Eggs (white, AA)",2016-11-15,Unit
 2.2449,Meat (chicken),2016-11-15,KG
@@ -7033,7 +6683,6 @@ usdprice,commodity,date,unit
 0.8455,Rice (high quality),2016-11-15,KG
 0.2806,Cassava (dry),2016-11-15,KG
 0.2052,Potatoes,2016-11-15,KG
-721.5725,Rice (white),2016-11-15,MT
 1.1545,Fish (tilapia),2016-11-15,Libra
 2.3796,Fuel (diesel),2016-11-15,Gallon
 2.5236,Fuel (petrol-gasoline),2016-11-15,Gallon
@@ -7075,8 +6724,6 @@ usdprice,commodity,date,unit
 0.6332,Maize (white),2016-12-15,KG
 0.4133,Maize (yellow),2016-12-15,KG
 0.794,Rice (high quality),2016-12-15,KG
-383.936,Rice (paddy),2016-12-15,MT
-699.8834,Rice (white),2016-12-15,MT
 0.4999,Wheat flour,2016-12-15,KG
 0.9998,Fish (tilapia),2016-12-15,Libra
 2.3329,Meat (chicken),2016-12-15,KG
@@ -7084,7 +6731,6 @@ usdprice,commodity,date,unit
 1.3664,Cocoa,2016-12-15,Libra
 0.5249,"Sugar (brown, loaf)",2016-12-15,KG
 2.6816,Fuel (petrol-gasoline),2016-12-15,Gallon
-229.78,"Wage (non-qualified labour, non-agricultural)",2016-12-15,Month
 1.4164,Oil (vegetable),2016-12-15,L
 2.2663,Beans (red),2016-12-15,KG
 0.6666,"Beans (red, fresh)",2016-12-15,KG
@@ -7103,7 +6749,6 @@ usdprice,commodity,date,unit
 0.4991,Wheat flour,2016-12-15,KG
 0.7174,Sugar (white),2016-12-15,KG
 0.2333,Potatoes,2016-12-15,KG
-354.6076,Rice (paddy),2016-12-15,MT
 1.1331,Fish (tilapia),2016-12-15,Libra
 2.4729,Fuel (diesel),2016-12-15,Gallon
 2.6226,Fuel (petrol-gasoline),2016-12-15,Gallon
@@ -7118,8 +6763,6 @@ usdprice,commodity,date,unit
 0.5388,Cassava (dry),2017-01-15,KG
 0.4157,Maize (white),2017-01-15,KG
 0.4095,Maize (yellow),2017-01-15,KG
-297.4468,Rice (paddy),2017-01-15,MT
-688.3761,Rice (white),2017-01-15,MT
 0.0977,"Eggs (white, AA)",2017-01-15,Unit
 0.4041,Fish (tilapia),2017-01-15,Libra
 5.051,Meat (beef),2017-01-15,KG
@@ -7147,8 +6790,6 @@ usdprice,commodity,date,unit
 0.6398,Maize (white),2017-01-15,KG
 0.4041,Maize (yellow),2017-01-15,KG
 0.2694,Potatoes,2017-01-15,KG
-387.9156,Rice (paddy),2017-01-15,MT
-700.4032,Rice (white),2017-01-15,MT
 0.4984,Wheat flour,2017-01-15,KG
 0.101,"Eggs (white, AA)",2017-01-15,Unit
 2.3571,Meat (chicken),2017-01-15,KG
@@ -7156,7 +6797,6 @@ usdprice,commodity,date,unit
 1.0775,Sugar,2017-01-15,KG
 0.7752,Sugar (white),2017-01-15,KG
 2.5932,Fuel (diesel),2017-01-15,Gallon
-232.1618,"Wage (non-qualified labour, non-agricultural)",2017-01-15,Month
 1.4311,Oil (vegetable),2017-01-15,L
 1.4816,Beans (red),2017-01-15,KG
 1.65,Lentils (imported),2017-01-15,KG
@@ -7181,7 +6821,6 @@ usdprice,commodity,date,unit
 0.7257,Sugar (white),2017-01-15,KG
 0.2946,Cassava (dry),2017-01-15,KG
 0.202,Potatoes,2017-01-15,KG
-747.5457,Rice (white),2017-01-15,MT
 1.2122,Fish (tilapia),2017-01-15,Libra
 2.5666,Fuel (diesel),2017-01-15,Gallon
 2.6898,Fuel (petrol-gasoline),2017-01-15,Gallon
@@ -7197,8 +6836,6 @@ usdprice,commodity,date,unit
 0.4325,Maize (white),2017-02-15,KG
 0.4119,Maize (yellow),2017-02-15,KG
 0.955,Rice (high quality),2017-02-15,KG
-313.6872,Rice (paddy),2017-02-15,MT
-743.5548,Rice (white),2017-02-15,MT
 0.1011,"Eggs (white, AA)",2017-02-15,Unit
 0.4182,Fish (tilapia),2017-02-15,Libra
 5.6115,Meat (beef),2017-02-15,KG
@@ -7230,8 +6867,6 @@ usdprice,commodity,date,unit
 0.244,Potatoes,2017-02-15,KG
 0.844,Rice (high quality),2017-02-15,KG
 0.77,"Rice (ordinary, second quality)",2017-02-15,KG
-401.5196,Rice (paddy),2017-02-15,MT
-724.966,Rice (white),2017-02-15,MT
 0.5158,Wheat flour,2017-02-15,KG
 0.1046,"Eggs (white, AA)",2017-02-15,Unit
 2.4398,Meat (chicken),2017-02-15,KG
@@ -7240,7 +6875,6 @@ usdprice,commodity,date,unit
 0.8086,Sugar (white),2017-02-15,KG
 2.6841,Fuel (diesel),2017-02-15,Gallon
 2.8514,Fuel (petrol-gasoline),2017-02-15,Gallon
-240.3036,"Wage (non-qualified labour, non-agricultural)",2017-02-15,Month
 1.4813,Oil (vegetable),2017-02-15,L
 2.0912,Beans (red),2017-02-15,KG
 1.7079,Lentils (imported),2017-02-15,KG
@@ -7260,7 +6894,6 @@ usdprice,commodity,date,unit
 0.9215,Rice (high quality),2017-02-15,KG
 0.7528,Sugar (white),2017-02-15,KG
 0.2963,Cassava (dry),2017-02-15,KG
-814.5411,Rice (white),2017-02-15,MT
 2.7841,Fuel (petrol-gasoline),2017-02-15,Gallon
 0.3834,Bananas,2017-02-15,KG
 0.3485,Beans (string),2017-02-15,KG
@@ -7270,7 +6903,6 @@ usdprice,commodity,date,unit
 1.3942,Spinach,2017-02-15,KG
 0.4721,Cassava (dry),2017-03-15,KG
 0.3329,Maize (white),2017-03-15,KG
-303.483,Rice (paddy),2017-03-15,MT
 0.0978,"Eggs (white, AA)",2017-03-15,Unit
 5.429,Meat (beef),2017-03-15,KG
 1.7737,Meat (chicken),2017-03-15,KG
@@ -7294,8 +6926,6 @@ usdprice,commodity,date,unit
 0.6474,Maize flour,2017-03-15,KG
 0.236,Potatoes,2017-03-15,KG
 0.8043,Rice (high quality),2017-03-15,KG
-388.4582,Rice (paddy),2017-03-15,MT
-701.3829,Rice (white),2017-03-15,MT
 0.1012,"Eggs (white, AA)",2017-03-15,Unit
 1.5174,Fish (tilapia),2017-03-15,Libra
 2.3604,Meat (chicken),2017-03-15,KG
@@ -7305,7 +6935,6 @@ usdprice,commodity,date,unit
 0.7423,Sugar (white),2017-03-15,KG
 2.6153,Fuel (diesel),2017-03-15,Gallon
 2.8062,Fuel (petrol-gasoline),2017-03-15,Gallon
-248.7606,"Wage (non-qualified labour, non-agricultural)",2017-03-15,Month
 1.4331,Oil (vegetable),2017-03-15,L
 1.4837,Beans (red),2017-03-15,KG
 1.6523,Lentils (imported),2017-03-15,KG
@@ -7324,7 +6953,6 @@ usdprice,commodity,date,unit
 0.7284,Sugar (white),2017-03-15,KG
 0.2951,Cassava (dry),2017-03-15,KG
 0.1753,Potatoes,2017-03-15,KG
-755.3354,Rice (white),2017-03-15,MT
 1.2814,Fish (tilapia),2017-03-15,Libra
 2.5843,Fuel (diesel),2017-03-15,Gallon
 0.3709,Bananas,2017-03-15,KG
@@ -7338,7 +6966,6 @@ usdprice,commodity,date,unit
 0.4461,Cassava (dry),2017-04-15,KG
 0.3627,Maize (white),2017-04-15,KG
 0.906,Rice (high quality),2017-04-15,KG
-352.3168,Rice (paddy),2017-04-15,MT
 0.0995,"Eggs (white, AA)",2017-04-15,Unit
 2.059,Fish (tilapia),2017-04-15,Libra
 5.525,Meat (beef),2017-04-15,KG
@@ -7364,14 +6991,12 @@ usdprice,commodity,date,unit
 0.6589,Maize flour,2017-04-15,KG
 0.2402,Potatoes,2017-04-15,KG
 0.8163,Rice (high quality),2017-04-15,KG
-356.8922,Rice (paddy),2017-04-15,MT
 0.1029,"Eggs (white, AA)",2017-04-15,Unit
 1.63,Fish (tilapia),2017-04-15,Libra
 2.4022,Meat (chicken),2017-04-15,KG
 1.0981,Sugar,2017-04-15,KG
 2.6585,Fuel (diesel),2017-04-15,Gallon
 2.8939,Fuel (petrol-gasoline),2017-04-15,Gallon
-253.1591,"Wage (non-qualified labour, non-agricultural)",2017-04-15,Month
 1.4585,Oil (vegetable),2017-04-15,L
 2.059,Beans (red),2017-04-15,KG
 1.6815,Lentils (imported),2017-04-15,KG
@@ -7392,7 +7017,6 @@ usdprice,commodity,date,unit
 0.5353,Wheat flour,2017-04-15,KG
 0.7061,Sugar (white),2017-04-15,KG
 0.2402,Potatoes,2017-04-15,KG
-761.8276,Rice (white),2017-04-15,MT
 1.7845,Fish (tilapia),2017-04-15,Libra
 2.6259,Fuel (diesel),2017-04-15,Gallon
 2.8277,Fuel (petrol-gasoline),2017-04-15,Gallon
@@ -7405,7 +7029,6 @@ usdprice,commodity,date,unit
 0.6863,Spinach,2017-04-15,KG
 0.3543,Maize (yellow),2017-05-15,KG
 0.9138,Rice (high quality),2017-05-15,KG
-361.3621,Rice (paddy),2017-05-15,MT
 0.1008,"Eggs (white, AA)",2017-05-15,Unit
 2.0848,Fish (tilapia),2017-05-15,Libra
 5.5942,Meat (beef),2017-05-15,KG
@@ -7427,8 +7050,6 @@ usdprice,commodity,date,unit
 0.278,Potatoes,2017-05-15,KG
 0.8221,Rice (high quality),2017-05-15,KG
 0.7404,"Rice (ordinary, second quality)",2017-05-15,KG
-361.3621,Rice (paddy),2017-05-15,MT
-712.3002,Rice (white),2017-05-15,MT
 0.5142,Wheat flour,2017-05-15,KG
 0.1042,"Eggs (white, AA)",2017-05-15,Unit
 1.6505,Fish (tilapia),2017-05-15,Libra
@@ -7436,7 +7057,6 @@ usdprice,commodity,date,unit
 1.1119,Sugar,2017-05-15,KG
 0.6254,"Sugar (brown, loaf)",2017-05-15,KG
 2.7001,Fuel (diesel),2017-05-15,Gallon
-256.3297,"Wage (non-qualified labour, non-agricultural)",2017-05-15,Month
 1.5288,Beans (red),2017-05-15,KG
 1.7026,Lentils (imported),2017-05-15,KG
 0.3475,Bananas,2017-05-15,KG
@@ -7455,8 +7075,6 @@ usdprice,commodity,date,unit
 0.8892,Rice (high quality),2017-05-15,KG
 0.304,Cassava (dry),2017-05-15,KG
 0.1946,Potatoes,2017-05-15,KG
-334.2599,Rice (paddy),2017-05-15,MT
-764.4197,Rice (white),2017-05-15,MT
 2.6466,Fuel (diesel),2017-05-15,Gallon
 2.9017,Fuel (petrol-gasoline),2017-05-15,Gallon
 0.3822,Bananas,2017-05-15,KG
@@ -7468,7 +7086,6 @@ usdprice,commodity,date,unit
 0.6949,Onions (white),2017-05-15,KG
 0.3127,Pumpkin,2017-05-15,KG
 0.3473,Maize (yellow),2017-06-15,KG
-737.9043,Rice (white),2017-06-15,MT
 0.105,"Eggs (white, AA)",2017-06-15,Unit
 5.4552,Meat (beef),2017-06-15,KG
 1.9923,Meat (chicken),2017-06-15,KG
@@ -7496,8 +7113,6 @@ usdprice,commodity,date,unit
 0.2914,Maize (yellow),2017-06-15,KG
 0.6506,Maize flour,2017-06-15,KG
 0.2033,Potatoes,2017-06-15,KG
-337.4784,Rice (paddy),2017-06-15,MT
-677.6675,Rice (white),2017-06-15,MT
 0.1017,"Eggs (white, AA)",2017-06-15,Unit
 1.44,Fish (tilapia),2017-06-15,Libra
 2.3718,Meat (chicken),2017-06-15,KG
@@ -7505,7 +7120,6 @@ usdprice,commodity,date,unit
 1.0843,Sugar,2017-06-15,KG
 2.6331,Fuel (diesel),2017-06-15,Gallon
 2.895,Fuel (petrol-gasoline),2017-06-15,Gallon
-249.9634,"Wage (non-qualified labour, non-agricultural)",2017-06-15,Month
 1.44,Oil (vegetable),2017-06-15,L
 1.6603,Lentils (imported),2017-06-15,KG
 0.8132,"Beans (red, fresh)",2017-06-15,KG
@@ -7522,8 +7136,6 @@ usdprice,commodity,date,unit
 0.5218,Wheat flour,2017-06-15,KG
 0.8136,Sugar (white),2017-06-15,KG
 0.2965,Cassava (dry),2017-06-15,KG
-331.3794,Rice (paddy),2017-06-15,MT
-758.9876,Rice (white),2017-06-15,MT
 1.4909,Fish (tilapia),2017-06-15,Libra
 2.5809,Fuel (diesel),2017-06-15,Gallon
 2.8296,Fuel (petrol-gasoline),2017-06-15,Gallon
@@ -7541,7 +7153,6 @@ usdprice,commodity,date,unit
 0.3591,Maize (white),2017-07-15,KG
 0.3645,Maize (yellow),2017-07-15,KG
 0.855,Rice (high quality),2017-07-15,KG
-310.6939,Rice (paddy),2017-07-15,MT
 0.1027,"Eggs (white, AA)",2017-07-15,Unit
 1.9884,Fish (tilapia),2017-07-15,Libra
 5.3357,Meat (beef),2017-07-15,KG
@@ -7575,8 +7186,6 @@ usdprice,commodity,date,unit
 0.6363,Maize flour,2017-07-15,KG
 0.1988,Potatoes,2017-07-15,KG
 0.6997,"Rice (ordinary, second quality)",2017-07-15,KG
-315.1679,Rice (paddy),2017-07-15,MT
-662.8137,Rice (white),2017-07-15,MT
 0.4905,Wheat flour,2017-07-15,KG
 0.0994,"Eggs (white, AA)",2017-07-15,Unit
 2.6513,Cheese,2017-07-15,KG
@@ -7585,7 +7194,6 @@ usdprice,commodity,date,unit
 0.5965,"Sugar (brown, loaf)",2017-07-15,KG
 2.5866,Fuel (diesel),2017-07-15,Gallon
 2.8229,Fuel (petrol-gasoline),2017-07-15,Gallon
-244.4845,"Wage (non-qualified labour, non-agricultural)",2017-07-15,Month
 1.4085,Oil (vegetable),2017-07-15,L
 1.4582,Beans (red),2017-07-15,KG
 1.6239,Lentils (imported),2017-07-15,KG
@@ -7604,7 +7212,6 @@ usdprice,commodity,date,unit
 0.4971,Wheat flour,2017-07-15,KG
 0.6922,Sugar (white),2017-07-15,KG
 0.2486,Cassava (dry),2017-07-15,KG
-308.8712,Rice (paddy),2017-07-15,MT
 1.5908,Fish (tilapia),2017-07-15,Libra
 2.5363,Fuel (diesel),2017-07-15,Gallon
 2.7593,Fuel (petrol-gasoline),2017-07-15,Gallon
@@ -7618,8 +7225,6 @@ usdprice,commodity,date,unit
 0.3538,Maize (white),2017-08-15,KG
 0.3713,Maize (yellow),2017-08-15,KG
 0.8427,Rice (high quality),2017-08-15,KG
-309.736,Rice (paddy),2017-08-15,MT
-705.1813,Rice (white),2017-08-15,MT
 0.1047,"Eggs (white, AA)",2017-08-15,Unit
 2.0255,Fish (tilapia),2017-08-15,Libra
 5.4351,Meat (beef),2017-08-15,KG
@@ -7688,8 +7293,6 @@ usdprice,commodity,date,unit
 1.3503,Spinach,2017-08-15,KG
 0.4491,Cassava (dry),2017-09-15,KG
 0.3034,Maize (white),2017-09-15,KG
-320.8981,Rice (paddy),2017-09-15,MT
-675.494,Rice (white),2017-09-15,MT
 0.1071,"Eggs (white, AA)",2017-09-15,Unit
 5.5613,Meat (beef),2017-09-15,KG
 0.38,Milk (pasteurized),2017-09-15,500 ML
@@ -7719,8 +7322,6 @@ usdprice,commodity,date,unit
 0.4283,Maize (yellow),2017-09-15,KG
 0.2487,Potatoes,2017-09-15,KG
 0.7293,Rice (high quality),2017-09-15,KG
-327.4611,Rice (paddy),2017-09-15,MT
-621.7617,Rice (white),2017-09-15,MT
 0.5527,Wheat flour,2017-09-15,KG
 0.1036,"Eggs (white, AA)",2017-09-15,Unit
 2.7634,Meat (chicken),2017-09-15,KG
@@ -7729,7 +7330,6 @@ usdprice,commodity,date,unit
 0.4231,"Sugar (brown, loaf)",2017-09-15,KG
 2.7765,Fuel (diesel),2017-09-15,Gallon
 3.0225,Fuel (petrol-gasoline),2017-09-15,Gallon
-254.8245,"Wage (non-qualified labour, non-agricultural)",2017-09-15,Month
 1.468,Oil (vegetable),2017-09-15,L
 1.9344,Beans (red),2017-09-15,KG
 0.6908,"Beans (red, fresh)",2017-09-15,KG
@@ -7746,7 +7346,6 @@ usdprice,commodity,date,unit
 0.5272,Wheat flour,2017-09-15,KG
 0.6908,Sugar (white),2017-09-15,KG
 0.2763,Potatoes,2017-09-15,KG
-289.81,Rice (paddy),2017-09-15,MT
 1.1054,Fish (tilapia),2017-09-15,Libra
 2.724,Fuel (diesel),2017-09-15,Gallon
 2.9596,Fuel (petrol-gasoline),2017-09-15,Gallon
@@ -7793,7 +7392,6 @@ usdprice,commodity,date,unit
 0.2422,Potatoes,2017-10-15,KG
 0.6886,Rice (high quality),2017-10-15,KG
 0.624,"Rice (ordinary, second quality)",2017-10-15,KG
-605.4798,Rice (white),2017-10-15,MT
 0.5382,Wheat flour,2017-10-15,KG
 0.1009,"Eggs (white, AA)",2017-10-15,Unit
 2.691,Meat (chicken),2017-10-15,KG
@@ -7801,7 +7399,6 @@ usdprice,commodity,date,unit
 1.0764,Sugar,2017-10-15,KG
 2.7038,Fuel (diesel),2017-10-15,Gallon
 2.9433,Fuel (petrol-gasoline),2017-10-15,Gallon
-248.1515,"Wage (non-qualified labour, non-agricultural)",2017-10-15,Month
 1.2782,Lentils (imported),2017-10-15,KG
 0.7737,"Peas (green, dry)",2017-10-15,KG
 0.6728,Blackberry,2017-10-15,KG
@@ -7818,8 +7415,6 @@ usdprice,commodity,date,unit
 0.5147,Wheat flour,2017-10-15,KG
 0.6676,Sugar (white),2017-10-15,KG
 0.2691,Potatoes,2017-10-15,KG
-282.2209,Rice (paddy),2017-10-15,MT
-659.3002,Rice (white),2017-10-15,MT
 2.6527,Fuel (diesel),2017-10-15,Gallon
 2.8821,Fuel (petrol-gasoline),2017-10-15,Gallon
 0.37,Bananas,2017-10-15,KG
@@ -7832,7 +7427,6 @@ usdprice,commodity,date,unit
 0.2691,Pumpkin,2017-10-15,KG
 0.4298,Cassava (dry),2017-11-15,KG
 0.3967,Maize (yellow),2017-11-15,KG
-281.0177,Rice (paddy),2017-11-15,MT
 0.1025,"Eggs (white, AA)",2017-11-15,Unit
 5.3228,Meat (beef),2017-11-15,KG
 4.7277,Meat (pork),2017-11-15,KG
@@ -7860,8 +7454,6 @@ usdprice,commodity,date,unit
 0.4629,Potatoes,2017-11-15,KG
 0.6616,Rice (high quality),2017-11-15,KG
 0.6083,"Rice (ordinary, second quality)",2017-11-15,KG
-313.4174,Rice (paddy),2017-11-15,MT
-555.4233,Rice (white),2017-11-15,MT
 0.529,Wheat flour,2017-11-15,KG
 0.0992,"Eggs (white, AA)",2017-11-15,Unit
 2.6449,Meat (chicken),2017-11-15,KG
@@ -7883,7 +7475,6 @@ usdprice,commodity,date,unit
 0.6717,Rice (high quality),2017-11-15,KG
 0.4996,Wheat flour,2017-11-15,KG
 0.6645,Sugar (white),2017-11-15,KG
-608.3208,Rice (white),2017-11-15,MT
 0.9918,Fish (tilapia),2017-11-15,Libra
 0.3637,Bananas,2017-11-15,KG
 0.6612,"Beans (red, fresh)",2017-11-15,KG
@@ -7897,7 +7488,6 @@ usdprice,commodity,date,unit
 0.2937,Maize (white),2017-12-15,KG
 0.4314,Maize (yellow),2017-12-15,KG
 0.7278,Rice (high quality),2017-12-15,KG
-233.8025,Rice (paddy),2017-12-15,MT
 0.1035,"Eggs (white, AA)",2017-12-15,Unit
 2.004,Fish (tilapia),2017-12-15,Libra
 5.3775,Meat (beef),2017-12-15,KG
@@ -7927,14 +7517,11 @@ usdprice,commodity,date,unit
 0.4342,Potatoes,2017-12-15,KG
 0.6726,Rice (high quality),2017-12-15,KG
 0.606,"Rice (ordinary, second quality)",2017-12-15,KG
-316.6354,Rice (paddy),2017-12-15,MT
-565.5793,Rice (white),2017-12-15,MT
 0.5344,Wheat flour,2017-12-15,KG
 2.672,Meat (chicken),2017-12-15,KG
 0.4092,"Sugar (brown, loaf)",2017-12-15,KG
 2.7338,Fuel (diesel),2017-12-15,Gallon
 2.969,Fuel (petrol-gasoline),2017-12-15,Gallon
-246.4001,"Wage (non-qualified labour, non-agricultural)",2017-12-15,Month
 1.4195,Oil (vegetable),2017-12-15,L
 1.336,Beans (red),2017-12-15,KG
 0.7682,"Peas (green, dry)",2017-12-15,KG
@@ -7957,7 +7544,6 @@ usdprice,commodity,date,unit
 0.7037,Rice (high quality),2017-12-15,KG
 0.5027,Wheat flour,2017-12-15,KG
 0.4342,Potatoes,2017-12-15,KG
-614.5666,Rice (white),2017-12-15,MT
 1.002,Fish (tilapia),2017-12-15,Libra
 2.6817,Fuel (diesel),2017-12-15,Gallon
 2.9068,Fuel (petrol-gasoline),2017-12-15,Gallon
@@ -7993,8 +7579,6 @@ usdprice,commodity,date,unit
 0.4196,Potatoes,2018-01-15,KG
 0.7029,Rice (high quality),2018-01-15,KG
 0.6344,"Rice (ordinary, second quality)",2018-01-15,KG
-331.5207,Rice (paddy),2018-01-15,MT
-615.4815,Rice (white),2018-01-15,MT
 0.5595,Wheat flour,2018-01-15,KG
 0.1049,"Eggs (white, AA)",2018-01-15,Unit
 1.4862,Fish (tilapia),2018-01-15,Libra
@@ -8026,8 +7610,6 @@ usdprice,commodity,date,unit
 0.5263,Wheat flour,2018-01-15,KG
 0.6679,Sugar (white),2018-01-15,KG
 0.2623,Cassava (dry),2018-01-15,KG
-290.4303,Rice (paddy),2018-01-15,MT
-650.452,Rice (white),2018-01-15,MT
 1.2589,Fish (tilapia),2018-01-15,Libra
 3.0435,Fuel (petrol-gasoline),2018-01-15,Gallon
 0.3497,Bananas,2018-01-15,KG
@@ -8042,7 +7624,6 @@ usdprice,commodity,date,unit
 0.4905,Cassava (dry),2018-02-15,KG
 0.3532,Maize (yellow),2018-02-15,KG
 0.7813,Rice (high quality),2018-02-15,KG
-280.2887,Rice (paddy),2018-02-15,MT
 5.6408,Meat (beef),2018-02-15,KG
 2.7643,Meat (chicken),2018-02-15,KG
 5.0452,Meat (pork),2018-02-15,KG
@@ -8071,8 +7652,6 @@ usdprice,commodity,date,unit
 0.3854,Potatoes,2018-02-15,KG
 0.7152,Rice (high quality),2018-02-15,KG
 0.6381,"Rice (ordinary, second quality)",2018-02-15,KG
-336.3464,Rice (paddy),2018-02-15,MT
-630.6496,Rice (white),2018-02-15,MT
 1.6642,Fish (tilapia),2018-02-15,Libra
 2.8029,Cheese,2018-02-15,KG
 1.6817,Cocoa,2018-02-15,Libra
@@ -8081,7 +7660,6 @@ usdprice,commodity,date,unit
 0.6938,Sugar (white),2018-02-15,KG
 2.9164,Fuel (diesel),2018-02-15,Gallon
 3.168,Fuel (petrol-gasoline),2018-02-15,Gallon
-273.7166,"Wage (non-qualified labour, non-agricultural)",2018-02-15,Month
 1.489,Oil (vegetable),2018-02-15,L
 1.5766,Beans (red),2018-02-15,KG
 1.3314,Lentils (imported),2018-02-15,KG
@@ -8116,7 +7694,6 @@ usdprice,commodity,date,unit
 0.4569,Cassava (dry),2018-03-15,KG
 0.3442,Maize (yellow),2018-03-15,KG
 0.8119,Rice (high quality),2018-03-15,KG
-298.7383,Rice (paddy),2018-03-15,MT
 0.1283,"Eggs (white, AA)",2018-03-15,Unit
 2.6359,Fish (tilapia),2018-03-15,Libra
 5.6585,Meat (beef),2018-03-15,KG
@@ -8145,15 +7722,12 @@ usdprice,commodity,date,unit
 0.4217,Potatoes,2018-03-15,KG
 0.7297,Rice (high quality),2018-03-15,KG
 0.659,"Rice (ordinary, second quality)",2018-03-15,KG
-337.3985,Rice (paddy),2018-03-15,MT
-632.6222,Rice (white),2018-03-15,MT
 0.1054,"Eggs (white, AA)",2018-03-15,Unit
 1.4058,Fish (tilapia),2018-03-15,Libra
 2.8117,Meat (chicken),2018-03-15,KG
 2.7414,Cheese,2018-03-15,KG
 1.0544,Sugar,2018-03-15,KG
 0.666,Sugar (white),2018-03-15,KG
-274.5728,"Wage (non-qualified labour, non-agricultural)",2018-03-15,Month
 1.5183,Beans (red),2018-03-15,KG
 0.7662,"Peas (green, dry)",2018-03-15,KG
 0.8435,"Beans (red, fresh)",2018-03-15,KG
@@ -8173,8 +7747,6 @@ usdprice,commodity,date,unit
 0.5377,Wheat flour,2018-03-15,KG
 0.5817,Sugar (white),2018-03-15,KG
 0.4217,Potatoes,2018-03-15,KG
-310.3363,Rice (paddy),2018-03-15,MT
-681.8262,Rice (white),2018-03-15,MT
 1.4058,Fish (tilapia),2018-03-15,Libra
 2.8686,Fuel (diesel),2018-03-15,Gallon
 3.1079,Fuel (petrol-gasoline),2018-03-15,Gallon
@@ -8189,8 +7761,6 @@ usdprice,commodity,date,unit
 1.4058,Spinach,2018-03-15,KG
 0.4654,Cassava (dry),2018-04-15,KG
 0.3197,Maize (white),2018-04-15,KG
-309.0645,Rice (paddy),2018-04-15,MT
-721.283,Rice (white),2018-04-15,MT
 0.0931,"Eggs (white, AA)",2018-04-15,Unit
 5.1551,Meat (pork),2018-04-15,KG
 0.3938,Milk (pasteurized),2018-04-15,500 ML
@@ -8219,8 +7789,6 @@ usdprice,commodity,date,unit
 0.3938,Potatoes,2018-04-15,KG
 0.7782,Rice (high quality),2018-04-15,KG
 0.6887,"Rice (ordinary, second quality)",2018-04-15,KG
-343.6703,Rice (paddy),2018-04-15,MT
-655.1215,Rice (white),2018-04-15,MT
 0.5728,Wheat flour,2018-04-15,KG
 0.1074,"Eggs (white, AA)",2018-04-15,Unit
 1.432,Fish (tilapia),2018-04-15,Libra
@@ -8229,7 +7797,6 @@ usdprice,commodity,date,unit
 1.074,Sugar,2018-04-15,KG
 2.9939,Fuel (diesel),2018-04-15,Gallon
 3.2359,Fuel (petrol-gasoline),2018-04-15,Gallon
-279.6767,"Wage (non-qualified labour, non-agricultural)",2018-04-15,Month
 1.8043,Beans (red),2018-04-15,KG
 1.1456,Lentils (imported),2018-04-15,KG
 0.3222,Bananas,2018-04-15,KG
@@ -8249,7 +7816,6 @@ usdprice,commodity,date,unit
 0.5799,Sugar (white),2018-04-15,KG
 0.2685,Cassava (dry),2018-04-15,KG
 0.3222,Potatoes,2018-04-15,KG
-324.1001,Rice (paddy),2018-04-15,MT
 2.9219,Fuel (diesel),2018-04-15,Gallon
 3.1657,Fuel (petrol-gasoline),2018-04-15,Gallon
 0.3938,Bananas,2018-04-15,KG
@@ -8262,7 +7828,6 @@ usdprice,commodity,date,unit
 1.074,Spinach,2018-04-15,KG
 0.5567,Cassava (dry),2018-05-15,KG
 0.3914,Maize (yellow),2018-05-15,KG
-726.7973,Rice (white),2018-05-15,MT
 2.6095,Fish (tilapia),2018-05-15,Libra
 6.1584,Meat (beef),2018-05-15,KG
 2.0459,Meat (chicken),2018-05-15,KG
@@ -8291,8 +7856,6 @@ usdprice,commodity,date,unit
 0.682,Maize flour,2018-05-15,KG
 0.7696,Rice (high quality),2018-05-15,KG
 0.6854,"Rice (ordinary, second quality)",2018-05-15,KG
-334.0176,Rice (paddy),2018-05-15,MT
-658.293,Rice (white),2018-05-15,MT
 0.5567,Wheat flour,2018-05-15,KG
 1.3917,Fish (tilapia),2018-05-15,Libra
 2.7835,Cheese,2018-05-15,KG
@@ -8300,7 +7863,6 @@ usdprice,commodity,date,unit
 1.0438,Sugar,2018-05-15,KG
 2.9957,Fuel (diesel),2018-05-15,Gallon
 3.2368,Fuel (petrol-gasoline),2018-05-15,Gallon
-271.8214,"Wage (non-qualified labour, non-agricultural)",2018-05-15,Month
 1.5657,Oil (vegetable),2018-05-15,L
 1.7536,Beans (red),2018-05-15,KG
 1.1134,Lentils (imported),2018-05-15,KG
@@ -8321,8 +7883,6 @@ usdprice,commodity,date,unit
 0.5236,Wheat flour,2018-05-15,KG
 0.5978,Sugar (white),2018-05-15,KG
 0.3479,Cassava (dry),2018-05-15,KG
-345.7082,Rice (paddy),2018-05-15,MT
-748.0603,Rice (white),2018-05-15,MT
 2.9258,Fuel (diesel),2018-05-15,Gallon
 3.169,Fuel (petrol-gasoline),2018-05-15,Gallon
 0.9046,"Beans (red, fresh)",2018-05-15,KG
@@ -8332,8 +7892,6 @@ usdprice,commodity,date,unit
 0.4871,Onions (red),2018-05-15,KG
 0.1879,Onions (white),2018-05-15,KG
 0.553,Cassava (dry),2018-06-15,KG
-345.5962,Rice (paddy),2018-06-15,MT
-721.9118,Rice (white),2018-06-15,MT
 0.0899,"Eggs (white, AA)",2018-06-15,Unit
 2.592,Fish (tilapia),2018-06-15,Libra
 2.0321,Meat (chicken),2018-06-15,KG
@@ -8358,15 +7916,12 @@ usdprice,commodity,date,unit
 0.6774,Maize flour,2018-06-15,KG
 0.7741,Rice (high quality),2018-06-15,KG
 0.6856,"Rice (ordinary, second quality)",2018-06-15,KG
-331.7724,Rice (paddy),2018-06-15,MT
-656.6329,Rice (white),2018-06-15,MT
 0.553,Wheat flour,2018-06-15,KG
 1.728,Fish (tilapia),2018-06-15,Libra
 1.6381,Cocoa,2018-06-15,Libra
 0.3283,"Sugar (brown, loaf)",2018-06-15,KG
 2.9756,Fuel (diesel),2018-06-15,Gallon
 3.2151,Fuel (petrol-gasoline),2018-06-15,Gallon
-269.9943,"Wage (non-qualified labour, non-agricultural)",2018-06-15,Month
 1.7418,Beans (red),2018-06-15,KG
 1.1059,Lentils (imported),2018-06-15,KG
 0.7534,"Peas (green, dry)",2018-06-15,KG
@@ -8387,7 +7942,6 @@ usdprice,commodity,date,unit
 0.5201,Wheat flour,2018-06-15,KG
 0.3456,Cassava (dry),2018-06-15,KG
 0.311,Potatoes,2018-06-15,KG
-335.2284,Rice (paddy),2018-06-15,MT
 3.1477,Fuel (petrol-gasoline),2018-06-15,Gallon
 0.8294,"Beans (red, fresh)",2018-06-15,KG
 0.9874,Blackberry,2018-06-15,KG
@@ -8396,7 +7950,6 @@ usdprice,commodity,date,unit
 0.4838,Onions (red),2018-06-15,KG
 0.4018,Maize (white),2018-07-15,KG
 0.823,Rice (high quality),2018-07-15,KG
-719.2773,Rice (white),2018-07-15,MT
 2.5825,Fish (tilapia),2018-07-15,Libra
 6.0947,Meat (beef),2018-07-15,KG
 4.9584,Meat (pork),2018-07-15,KG
@@ -8455,7 +8008,6 @@ usdprice,commodity,date,unit
 1.033,Spinach,2018-07-15,KG
 0.7978,Rice (high quality),2018-07-15,KG
 0.241,Potatoes,2018-07-15,KG
-307.1468,Rice (paddy),2018-07-15,MT
 2.8955,Fuel (diesel),2018-07-15,Gallon
 3.1362,Fuel (petrol-gasoline),2018-07-15,Gallon
 0.6198,"Beans (red, fresh)",2018-07-15,KG
@@ -8468,8 +8020,6 @@ usdprice,commodity,date,unit
 0.5165,Spinach,2018-07-15,KG
 0.3741,Maize (white),2018-08-15,KG
 0.3446,Maize (yellow),2018-08-15,KG
-298.6544,Rice (paddy),2018-08-15,MT
-660.0299,Rice (white),2018-08-15,MT
 2.4614,Fish (tilapia),2018-08-15,Libra
 5.809,Meat (beef),2018-08-15,KG
 4.726,Meat (pork),2018-08-15,KG
@@ -8496,7 +8046,6 @@ usdprice,commodity,date,unit
 0.6236,Maize (white),2018-08-15,KG
 0.7183,Rice (high quality),2018-08-15,KG
 0.6606,"Rice (ordinary, second quality)",2018-08-15,KG
-315.064,Rice (paddy),2018-08-15,MT
 0.0985,"Eggs (white, AA)",2018-08-15,Unit
 1.3128,Fish (tilapia),2018-08-15,Libra
 2.6255,Meat (chicken),2018-08-15,KG
@@ -8524,7 +8073,6 @@ usdprice,commodity,date,unit
 0.5235,Sugar (white),2018-08-15,KG
 0.4102,Cassava (dry),2018-08-15,KG
 0.2757,Potatoes,2018-08-15,KG
-301.2799,Rice (paddy),2018-08-15,MT
 3.001,Fuel (petrol-gasoline),2018-08-15,Gallon
 0.361,Bananas,2018-08-15,KG
 0.6564,"Beans (red, fresh)",2018-08-15,KG
@@ -8537,8 +8085,6 @@ usdprice,commodity,date,unit
 0.7667,Cassava (dry),2018-09-15,KG
 0.3777,Maize (white),2018-09-15,KG
 0.7867,Rice (high quality),2018-09-15,KG
-312.5224,Rice (paddy),2018-09-15,MT
-663.0105,Rice (white),2018-09-15,MT
 0.0867,"Eggs (white, AA)",2018-09-15,Unit
 2.5002,Fish (tilapia),2018-09-15,Libra
 5.9004,Meat (beef),2018-09-15,KG
@@ -8562,8 +8108,6 @@ usdprice,commodity,date,unit
 0.7769,Rice (high quality),2018-09-15,KG
 0.7029,"Rice (ordinary, second quality)",2018-09-15,KG
 0.6681,"Rice (ordinary, second quality)",2018-09-15,KG
-320.0229,Rice (paddy),2018-09-15,MT
-621.7112,Rice (white),2018-09-15,MT
 0.5334,Wheat flour,2018-09-15,KG
 2.6669,Meat (chicken),2018-09-15,KG
 2.6002,Cheese,2018-09-15,KG
@@ -8590,8 +8134,6 @@ usdprice,commodity,date,unit
 0.533,Sugar (white),2018-09-15,KG
 0.2917,Cassava (dry),2018-09-15,KG
 0.3667,Potatoes,2018-09-15,KG
-310.0222,Rice (paddy),2018-09-15,MT
-690.0495,Rice (white),2018-09-15,MT
 2.8379,Fuel (diesel),2018-09-15,Gallon
 3.0482,Fuel (petrol-gasoline),2018-09-15,Gallon
 0.3667,Bananas,2018-09-15,KG
@@ -8604,8 +8146,6 @@ usdprice,commodity,date,unit
 1.1668,Spinach,2018-09-15,KG
 0.3537,Maize (white),2018-10-15,KG
 0.7609,Rice (high quality),2018-10-15,KG
-305.7055,Rice (paddy),2018-10-15,MT
-646.9958,Rice (white),2018-10-15,MT
 2.4262,Fish (tilapia),2018-10-15,Libra
 6.1141,Meat (beef),2018-10-15,KG
 1.9022,Meat (chicken),2018-10-15,KG
@@ -8634,7 +8174,6 @@ usdprice,commodity,date,unit
 0.3364,Potatoes,2018-10-15,KG
 0.7153,Rice (high quality),2018-10-15,KG
 0.6507,"Rice (ordinary, second quality)",2018-10-15,KG
-310.558,Rice (paddy),2018-10-15,MT
 0.5176,Wheat flour,2018-10-15,KG
 0.097,"Eggs (white, AA)",2018-10-15,Unit
 0.9705,Sugar,2018-10-15,KG
@@ -8663,7 +8202,6 @@ usdprice,commodity,date,unit
 0.4869,Wheat flour,2018-10-15,KG
 0.5195,Sugar (white),2018-10-15,KG
 0.4852,Cassava (dry),2018-10-15,KG
-300.2061,Rice (paddy),2018-10-15,MT
 2.9979,Fuel (petrol-gasoline),2018-10-15,Gallon
 0.3235,Bananas,2018-10-15,KG
 0.7117,"Beans (red, fresh)",2018-10-15,KG
@@ -8672,8 +8210,6 @@ usdprice,commodity,date,unit
 0.4529,Onions (white),2018-10-15,KG
 0.647,Spinach,2018-10-15,KG
 0.3347,Maize (white),2018-11-15,KG
-296.4473,Rice (paddy),2018-11-15,MT
-615.7829,Rice (white),2018-11-15,MT
 0.0878,"Eggs (white, AA)",2018-11-15,Unit
 5.9289,Meat (beef),2018-11-15,KG
 1.8446,Meat (chicken),2018-11-15,KG
@@ -8703,7 +8239,6 @@ usdprice,commodity,date,unit
 0.3764,Potatoes,2018-11-15,KG
 0.6948,Rice (high quality),2018-11-15,KG
 0.6298,"Rice (ordinary, second quality)",2018-11-15,KG
-301.1529,Rice (paddy),2018-11-15,MT
 0.5019,Wheat flour,2018-11-15,KG
 0.0941,"Eggs (white, AA)",2018-11-15,Unit
 1.2548,Fish (tilapia),2018-11-15,Libra
@@ -8713,7 +8248,6 @@ usdprice,commodity,date,unit
 0.9411,Sugar,2018-11-15,KG
 0.298,"Sugar (brown, loaf)",2018-11-15,KG
 0.6125,Sugar (white),2018-11-15,KG
-245.0763,"Wage (non-qualified labour, non-agricultural)",2018-11-15,Month
 1.4117,Oil (vegetable),2018-11-15,L
 1.5811,Beans (red),2018-11-15,KG
 1.0038,Lentils (imported),2018-11-15,KG
@@ -8737,8 +8271,6 @@ usdprice,commodity,date,unit
 0.4815,Wheat flour,2018-11-15,KG
 0.5353,Sugar (white),2018-11-15,KG
 0.2823,Potatoes,2018-11-15,KG
-291.5326,Rice (paddy),2018-11-15,MT
-645.7009,Rice (white),2018-11-15,MT
 1.1293,Fish (tilapia),2018-11-15,Libra
 2.7336,Fuel (diesel),2018-11-15,Gallon
 2.9378,Fuel (petrol-gasoline),2018-11-15,Gallon
@@ -8752,7 +8284,6 @@ usdprice,commodity,date,unit
 0.6164,Cassava (dry),2018-12-15,KG
 0.3481,Maize (white),2018-12-15,KG
 0.721,Rice (high quality),2018-12-15,KG
-286.6188,Rice (paddy),2018-12-15,MT
 0.0863,"Eggs (white, AA)",2018-12-15,Unit
 2.3114,Fish (tilapia),2018-12-15,Libra
 5.8248,Meat (beef),2018-12-15,KG
@@ -8777,8 +8308,6 @@ usdprice,commodity,date,unit
 0.6164,Cassava (dry),2018-12-15,KG
 0.5856,Maize (white),2018-12-15,KG
 0.6403,"Rice (ordinary, second quality)",2018-12-15,KG
-295.8645,Rice (paddy),2018-12-15,MT
-570.1556,Rice (white),2018-12-15,MT
 0.0925,"Eggs (white, AA)",2018-12-15,Unit
 2.4655,Fish (tilapia),2018-12-15,Libra
 2.4655,Meat (chicken),2018-12-15,KG
@@ -8786,7 +8315,6 @@ usdprice,commodity,date,unit
 2.9217,Cocoa,2018-12-15,Libra
 0.6272,Sugar (white),2018-12-15,KG
 2.9275,Fuel (petrol-gasoline),2018-12-15,Gallon
-240.7727,"Wage (non-qualified labour, non-agricultural)",2018-12-15,Month
 1.3869,Oil (vegetable),2018-12-15,L
 1.5533,Beans (red),2018-12-15,KG
 0.2466,Bananas,2018-12-15,KG
@@ -8802,8 +8330,6 @@ usdprice,commodity,date,unit
 0.4615,Wheat flour,2018-12-15,KG
 0.4623,Cassava (dry),2018-12-15,KG
 0.339,Potatoes,2018-12-15,KG
-288.1597,Rice (paddy),2018-12-15,MT
-634.876,Rice (white),2018-12-15,MT
 2.3423,Fish (tilapia),2018-12-15,Libra
 2.6683,Fuel (diesel),2018-12-15,Gallon
 2.8653,Fuel (petrol-gasoline),2018-12-15,Gallon
@@ -8818,8 +8344,6 @@ usdprice,commodity,date,unit
 0.9246,Spinach,2018-12-15,KG
 0.5734,Cassava (dry),2019-01-15,KG
 0.7467,Rice (high quality),2019-01-15,KG
-298.37,Rice (paddy),2019-01-15,MT
-632.3695,Rice (white),2019-01-15,MT
 6.0205,Meat (beef),2019-01-15,KG
 1.873,Meat (chicken),2019-01-15,KG
 4.587,Meat (pork),2019-01-15,KG
@@ -8851,8 +8375,6 @@ usdprice,commodity,date,unit
 0.6243,Maize flour,2019-01-15,KG
 0.7276,Rice (high quality),2019-01-15,KG
 0.653,"Rice (ordinary, second quality)",2019-01-15,KG
-310.8993,Rice (paddy),2019-01-15,MT
-599.9251,Rice (white),2019-01-15,MT
 0.5097,Wheat flour,2019-01-15,KG
 0.0956,"Eggs (white, AA)",2019-01-15,Unit
 1.2742,Fish (tilapia),2019-01-15,Libra
@@ -8861,7 +8383,6 @@ usdprice,commodity,date,unit
 0.6236,Sugar (white),2019-01-15,KG
 2.8239,Fuel (diesel),2019-01-15,Gallon
 3.0259,Fuel (petrol-gasoline),2019-01-15,Gallon
-263.7917,"Wage (non-qualified labour, non-agricultural)",2019-01-15,Month
 1.6055,Beans (red),2019-01-15,KG
 1.0193,Lentils (imported),2019-01-15,KG
 0.6944,"Peas (green, dry)",2019-01-15,KG
@@ -8891,7 +8412,6 @@ usdprice,commodity,date,unit
 0.6594,Onions (red),2019-01-15,KG
 0.6371,Onions (white),2019-01-15,KG
 0.3992,Maize (white),2019-02-15,KG
-309.7557,Rice (paddy),2019-02-15,MT
 2.395,Fish (tilapia),2019-02-15,Libra
 1.8777,Meat (chicken),2019-02-15,KG
 0.3513,Milk (pasteurized),2019-02-15,500 ML
@@ -8918,7 +8438,6 @@ usdprice,commodity,date,unit
 0.6387,Cassava (dry),2019-02-15,KG
 0.7346,Rice (high quality),2019-02-15,KG
 0.6542,"Rice (ordinary, second quality)",2019-02-15,KG
-316.7811,Rice (paddy),2019-02-15,MT
 0.7664,Wheat flour,2019-02-15,KG
 0.0958,"Eggs (white, AA)",2019-02-15,Unit
 3.1934,Meat (chicken),2019-02-15,KG
@@ -8945,8 +8464,6 @@ usdprice,commodity,date,unit
 0.7445,Rice (high quality),2019-02-15,KG
 0.479,Cassava (dry),2019-02-15,KG
 0.3066,Potatoes,2019-02-15,KG
-345.7343,Rice (paddy),2019-02-15,MT
-715.3122,Rice (white),2019-02-15,MT
 2.427,Fish (tilapia),2019-02-15,Libra
 2.7996,Fuel (diesel),2019-02-15,Gallon
 2.982,Fuel (petrol-gasoline),2019-02-15,Gallon
@@ -8961,8 +8478,6 @@ usdprice,commodity,date,unit
 0.4487,Maize (white),2019-03-15,KG
 0.3606,Maize (yellow),2019-03-15,KG
 0.7628,Rice (high quality),2019-03-15,KG
-310.8974,Rice (paddy),2019-03-15,MT
-680.1994,Rice (white),2019-03-15,MT
 0.0897,"Eggs (white, AA)",2019-03-15,Unit
 6.0577,Meat (beef),2019-03-15,KG
 1.8846,Meat (chicken),2019-03-15,KG
@@ -8997,8 +8512,6 @@ usdprice,commodity,date,unit
 0.3846,Potatoes,2019-03-15,KG
 0.7495,Rice (high quality),2019-03-15,KG
 0.6851,"Rice (ordinary, second quality)",2019-03-15,KG
-319.2308,Rice (paddy),2019-03-15,MT
-641.0256,Rice (white),2019-03-15,MT
 0.7692,Wheat flour,2019-03-15,KG
 1.2821,Fish (tilapia),2019-03-15,Libra
 2.5641,Cheese,2019-03-15,KG
@@ -9006,7 +8519,6 @@ usdprice,commodity,date,unit
 0.9615,Sugar,2019-03-15,KG
 0.6147,Sugar (white),2019-03-15,KG
 2.9064,Fuel (diesel),2019-03-15,Gallon
-265.4218,"Wage (non-qualified labour, non-agricultural)",2019-03-15,Month
 1.4609,Oil (vegetable),2019-03-15,L
 1.6667,Beans (red),2019-03-15,KG
 0.6987,"Peas (green, dry)",2019-03-15,KG
@@ -9026,7 +8538,6 @@ usdprice,commodity,date,unit
 0.5958,Sugar (white),2019-03-15,KG
 0.4808,Cassava (dry),2019-03-15,KG
 0.4103,Potatoes,2019-03-15,KG
-344.8718,Rice (paddy),2019-03-15,MT
 1.3462,Fish (tilapia),2019-03-15,Libra
 2.8397,Fuel (diesel),2019-03-15,Gallon
 3.008,Fuel (petrol-gasoline),2019-03-15,Gallon
@@ -9040,8 +8551,6 @@ usdprice,commodity,date,unit
 0.4462,Maize (white),2019-04-15,KG
 0.3655,Maize (yellow),2019-04-15,KG
 0.7609,Rice (high quality),2019-04-15,KG
-321.8682,Rice (paddy),2019-04-15,MT
-694.0171,Rice (white),2019-04-15,MT
 2.3901,Fish (tilapia),2019-04-15,Libra
 1.8738,Meat (chicken),2019-04-15,KG
 0.3505,Milk (pasteurized),2019-04-15,500 ML
@@ -9069,7 +8578,6 @@ usdprice,commodity,date,unit
 0.6246,Maize flour,2019-04-15,KG
 0.478,Potatoes,2019-04-15,KG
 0.6906,"Rice (ordinary, second quality)",2019-04-15,KG
-322.0808,Rice (paddy),2019-04-15,MT
 0.7648,Wheat flour,2019-04-15,KG
 0.0956,"Eggs (white, AA)",2019-04-15,Unit
 1.2747,Fish (tilapia),2019-04-15,Libra
@@ -9077,7 +8585,6 @@ usdprice,commodity,date,unit
 3.1868,Cheese,2019-04-15,KG
 1.5105,Cocoa,2019-04-15,Libra
 1.0835,Sugar,2019-04-15,KG
-263.9052,"Wage (non-qualified labour, non-agricultural)",2019-04-15,Month
 1.4525,Oil (vegetable),2019-04-15,L
 1.6571,Beans (red),2019-04-15,KG
 0.3505,Bananas,2019-04-15,KG
@@ -9110,7 +8617,6 @@ usdprice,commodity,date,unit
 0.4257,Maize (white),2019-05-15,KG
 0.3595,Maize (yellow),2019-05-15,KG
 0.7256,Rice (high quality),2019-05-15,KG
-335.0849,Rice (paddy),2019-05-15,MT
 0.0853,"Eggs (white, AA)",2019-05-15,Unit
 5.7574,Meat (beef),2019-05-15,KG
 1.7912,Meat (chicken),2019-05-15,KG
@@ -9139,8 +8645,6 @@ usdprice,commodity,date,unit
 0.5971,Maize flour,2019-05-15,KG
 0.7203,Rice (high quality),2019-05-15,KG
 0.6615,"Rice (ordinary, second quality)",2019-05-15,KG
-309.4966,Rice (paddy),2019-05-15,MT
-609.2453,Rice (white),2019-05-15,MT
 0.7311,Wheat flour,2019-05-15,KG
 0.0914,"Eggs (white, AA)",2019-05-15,Unit
 2.437,Fish (tilapia),2019-05-15,Libra
@@ -9148,7 +8652,6 @@ usdprice,commodity,date,unit
 3.0462,Cheese,2019-05-15,KG
 1.4439,Cocoa,2019-05-15,Libra
 2.7623,Fuel (diesel),2019-05-15,Gallon
-252.2629,"Wage (non-qualified labour, non-agricultural)",2019-05-15,Month
 1.584,Beans (red),2019-05-15,KG
 0.8529,Lentils (imported),2019-05-15,KG
 1.1576,"Peas (green, dry)",2019-05-15,KG
@@ -9166,8 +8669,6 @@ usdprice,commodity,date,unit
 0.3119,Maize (yellow),2019-05-15,KG
 0.7049,Sugar (white),2019-05-15,KG
 0.495,Cassava (dry),2019-05-15,KG
-341.1774,Rice (paddy),2019-05-15,MT
-722.2603,Rice (white),2019-05-15,MT
 1.3403,Fish (tilapia),2019-05-15,Libra
 2.699,Fuel (diesel),2019-05-15,Gallon
 2.8589,Fuel (petrol-gasoline),2019-05-15,Gallon
@@ -9184,7 +8685,6 @@ usdprice,commodity,date,unit
 0.4501,Maize (white),2019-06-15,KG
 0.4543,Maize (yellow),2019-06-15,KG
 0.7435,Rice (high quality),2019-06-15,KG
-707.6181,Rice (white),2019-06-15,MT
 0.0853,"Eggs (white, AA)",2019-06-15,Unit
 5.7591,Meat (beef),2019-06-15,KG
 1.7917,Meat (chicken),2019-06-15,KG
@@ -9209,8 +8709,6 @@ usdprice,commodity,date,unit
 0.4266,Potatoes,2019-06-15,KG
 0.7346,Rice (high quality),2019-06-15,KG
 0.6675,"Rice (ordinary, second quality)",2019-06-15,KG
-309.5914,Rice (paddy),2019-06-15,MT
-609.4319,Rice (white),2019-06-15,MT
 0.7313,Wheat flour,2019-06-15,KG
 2.4377,Fish (tilapia),2019-06-15,Libra
 3.0472,Meat (chicken),2019-06-15,KG
@@ -9218,7 +8716,6 @@ usdprice,commodity,date,unit
 1.4444,Cocoa,2019-06-15,Libra
 1.036,Sugar,2019-06-15,KG
 2.921,Fuel (petrol-gasoline),2019-06-15,Gallon
-252.3401,"Wage (non-qualified labour, non-agricultural)",2019-06-15,Month
 1.5845,Beans (red),2019-06-15,KG
 0.8532,Lentils (imported),2019-06-15,KG
 1.1579,"Peas (green, dry)",2019-06-15,KG
@@ -9238,8 +8735,6 @@ usdprice,commodity,date,unit
 0.78,Rice (high quality),2019-06-15,KG
 0.5066,Wheat flour,2019-06-15,KG
 0.7066,Sugar (white),2019-06-15,KG
-341.2818,Rice (paddy),2019-06-15,MT
-722.4815,Rice (white),2019-06-15,MT
 1.3408,Fish (tilapia),2019-06-15,Libra
 2.6998,Fuel (diesel),2019-06-15,Gallon
 0.3657,Bananas,2019-06-15,KG
@@ -9254,7 +8749,6 @@ usdprice,commodity,date,unit
 0.4316,Maize (white),2019-07-15,KG
 0.5454,Maize (yellow),2019-07-15,KG
 0.8177,Rice (high quality),2019-07-15,KG
-760.3111,Rice (white),2019-07-15,MT
 0.0879,"Eggs (white, AA)",2019-07-15,Unit
 2.3542,Fish (tilapia),2019-07-15,Libra
 5.9325,Meat (beef),2019-07-15,KG
@@ -9280,7 +8774,6 @@ usdprice,commodity,date,unit
 0.6529,Maize flour,2019-07-15,KG
 0.797,Rice (high quality),2019-07-15,KG
 0.7254,"Rice (ordinary, second quality)",2019-07-15,KG
-326.4455,Rice (paddy),2019-07-15,MT
 0.5022,Wheat flour,2019-07-15,KG
 0.1036,"Eggs (white, AA)",2019-07-15,Unit
 1.4125,Fish (tilapia),2019-07-15,Libra
@@ -9290,7 +8783,6 @@ usdprice,commodity,date,unit
 0.7105,Sugar (white),2019-07-15,KG
 2.8934,Fuel (diesel),2019-07-15,Gallon
 3.056,Fuel (petrol-gasoline),2019-07-15,Gallon
-259.9373,"Wage (non-qualified labour, non-agricultural)",2019-07-15,Month
 1.695,Oil (vegetable),2019-07-15,L
 1.5067,Beans (red),2019-07-15,KG
 0.6592,"Peas (green, dry)",2019-07-15,KG
@@ -9308,8 +8800,6 @@ usdprice,commodity,date,unit
 0.8117,Rice (high quality),2019-07-15,KG
 0.5493,Cassava (dry),2019-07-15,KG
 0.3578,Potatoes,2019-07-15,KG
-356.2651,Rice (paddy),2019-07-15,MT
-741.565,Rice (white),2019-07-15,MT
 1.2556,Fish (tilapia),2019-07-15,Libra
 2.8281,Fuel (diesel),2019-07-15,Gallon
 2.9929,Fuel (petrol-gasoline),2019-07-15,Gallon
@@ -9324,8 +8814,6 @@ usdprice,commodity,date,unit
 0.3459,Maize (white),2019-08-15,KG
 0.3513,Maize (yellow),2019-08-15,KG
 0.7582,Rice (high quality),2019-08-15,KG
-305.5812,Rice (paddy),2019-08-15,MT
-681.2047,Rice (white),2019-08-15,MT
 0.0807,"Eggs (white, AA)",2019-08-15,Unit
 2.1621,Fish (tilapia),2019-08-15,Libra
 5.4486,Meat (beef),2019-08-15,KG
@@ -9357,8 +8845,6 @@ usdprice,commodity,date,unit
 0.3229,Potatoes,2019-08-15,KG
 0.7243,Rice (high quality),2019-08-15,KG
 0.6627,"Rice (ordinary, second quality)",2019-08-15,KG
-311.3469,Rice (paddy),2019-08-15,MT
-680.3506,Rice (white),2019-08-15,MT
 0.4613,Wheat flour,2019-08-15,KG
 0.0951,"Eggs (white, AA)",2019-08-15,Unit
 2.3063,Cheese,2019-08-15,KG
@@ -9387,8 +8873,6 @@ usdprice,commodity,date,unit
 0.7376,Rice (high quality),2019-08-15,KG
 0.4782,Wheat flour,2019-08-15,KG
 0.2768,Potatoes,2019-08-15,KG
-323.6471,Rice (paddy),2019-08-15,MT
-711.101,Rice (white),2019-08-15,MT
 1.1531,Fish (tilapia),2019-08-15,Libra
 2.6251,Fuel (diesel),2019-08-15,Gallon
 0.3459,Bananas,2019-08-15,KG
@@ -9402,8 +8886,6 @@ usdprice,commodity,date,unit
 0.3901,Maize (white),2019-09-15,KG
 0.3847,Maize (yellow),2019-09-15,KG
 0.749,Rice (high quality),2019-09-15,KG
-312.0782,Rice (paddy),2019-09-15,MT
-677.3788,Rice (white),2019-09-15,MT
 4.3546,Fish (tilapia),2019-09-15,Libra
 5.4868,Meat (beef),2019-09-15,KG
 1.707,Meat (chicken),2019-09-15,KG
@@ -9430,13 +8912,11 @@ usdprice,commodity,date,unit
 0.2787,Potatoes,2019-09-15,KG
 0.7174,Rice (high quality),2019-09-15,KG
 0.6506,"Rice (ordinary, second quality)",2019-09-15,KG
-321.6582,Rice (paddy),2019-09-15,MT
 0.4645,Wheat flour,2019-09-15,KG
 0.0958,"Eggs (white, AA)",2019-09-15,Unit
 1.318,Cocoa,2019-09-15,Libra
 0.6441,Sugar (white),2019-09-15,KG
 2.8258,Fuel (petrol-gasoline),2019-09-15,Gallon
-240.4064,"Wage (non-qualified labour, non-agricultural)",2019-09-15,Month
 1.2289,Oil (vegetable),2019-09-15,L
 2.0205,Beans (red),2019-09-15,KG
 0.6909,Lentils (imported),2019-09-15,KG
@@ -9459,7 +8939,6 @@ usdprice,commodity,date,unit
 0.4877,Wheat flour,2019-09-15,KG
 0.4355,Cassava (dry),2019-09-15,KG
 0.2322,Potatoes,2019-09-15,KG
-705.4418,Rice (white),2019-09-15,MT
 2.6328,Fuel (diesel),2019-09-15,Gallon
 2.7675,Fuel (petrol-gasoline),2019-09-15,Gallon
 0.3484,Bananas,2019-09-15,KG
@@ -9476,7 +8955,6 @@ usdprice,commodity,date,unit
 0.3921,Maize (white),2019-10-15,KG
 0.3994,Maize (yellow),2019-10-15,KG
 0.7501,Rice (high quality),2019-10-15,KG
-686.3768,Rice (white),2019-10-15,MT
 0.087,"Eggs (white, AA)",2019-10-15,Unit
 5.4783,Meat (beef),2019-10-15,KG
 1.7043,Meat (chicken),2019-10-15,KG
@@ -9503,8 +8981,6 @@ usdprice,commodity,date,unit
 0.6029,Maize flour,2019-10-15,KG
 0.2899,Potatoes,2019-10-15,KG
 0.6617,"Rice (ordinary, second quality)",2019-10-15,KG
-338.5507,Rice (paddy),2019-10-15,MT
-688.6957,Rice (white),2019-10-15,MT
 0.4638,Wheat flour,2019-10-15,KG
 2.6087,Fish (tilapia),2019-10-15,Libra
 2.8986,Meat (chicken),2019-10-15,KG
@@ -9530,7 +9006,6 @@ usdprice,commodity,date,unit
 0.4922,Wheat flour,2019-10-15,KG
 0.5858,Sugar (white),2019-10-15,KG
 0.4348,Cassava (dry),2019-10-15,KG
-571.5942,Rice (white),2019-10-15,MT
 2.6264,Fuel (diesel),2019-10-15,Gallon
 2.7632,Fuel (petrol-gasoline),2019-10-15,Gallon
 0.3623,Bananas,2019-10-15,KG
@@ -9543,7 +9018,6 @@ usdprice,commodity,date,unit
 0.1739,Pumpkin,2019-10-15,KG
 0.5842,Cassava (dry),2019-11-15,KG
 0.7536,Rice (high quality),2019-11-15,KG
-355.3921,Rice (paddy),2019-11-15,MT
 0.0876,"Eggs (white, AA)",2019-11-15,Unit
 2.1908,Fish (tilapia),2019-11-15,Libra
 5.55,Meat (beef),2019-11-15,KG
@@ -9572,8 +9046,6 @@ usdprice,commodity,date,unit
 0.6193,Maize flour,2019-11-15,KG
 0.2921,Potatoes,2019-11-15,KG
 0.7828,Rice (high quality),2019-11-15,KG
-353.2498,Rice (paddy),2019-11-15,MT
-701.0472,Rice (white),2019-11-15,MT
 0.4674,Wheat flour,2019-11-15,KG
 0.0964,"Eggs (white, AA)",2019-11-15,Unit
 2.921,Meat (chicken),2019-11-15,KG
@@ -9583,7 +9055,6 @@ usdprice,commodity,date,unit
 0.6707,Sugar (white),2019-11-15,KG
 2.7084,Fuel (diesel),2019-11-15,Gallon
 2.8349,Fuel (petrol-gasoline),2019-11-15,Gallon
-241.8952,"Wage (non-qualified labour, non-agricultural)",2019-11-15,Month
 1.3387,Oil (vegetable),2019-11-15,L
 1.0516,"Peas (green, dry)",2019-11-15,KG
 0.3651,Bananas,2019-11-15,KG
@@ -9620,7 +9091,6 @@ usdprice,commodity,date,unit
 0.404,Maize (white),2019-12-15,KG
 0.4063,Maize (yellow),2019-12-15,KG
 0.8843,Rice (high quality),2019-12-15,KG
-377.5229,Rice (paddy),2019-12-15,MT
 0.0881,"Eggs (white, AA)",2019-12-15,Unit
 5.5527,Meat (beef),2019-12-15,KG
 1.7275,Meat (chicken),2019-12-15,KG
@@ -9651,8 +9121,6 @@ usdprice,commodity,date,unit
 0.235,Potatoes,2019-12-15,KG
 0.8579,Rice (high quality),2019-12-15,KG
 0.7935,"Rice (ordinary, second quality)",2019-12-15,KG
-388.9808,Rice (paddy),2019-12-15,MT
-774.1423,Rice (white),2019-12-15,MT
 0.097,"Eggs (white, AA)",2019-12-15,Unit
 1.3221,Fish (tilapia),2019-12-15,Libra
 2.9379,Meat (chicken),2019-12-15,KG
@@ -9661,7 +9129,6 @@ usdprice,commodity,date,unit
 0.6593,Sugar (white),2019-12-15,KG
 2.7208,Fuel (diesel),2019-12-15,Gallon
 2.851,Fuel (petrol-gasoline),2019-12-15,Gallon
-243.294,"Wage (non-qualified labour, non-agricultural)",2019-12-15,Month
 0.7345,Lentils (imported),2019-12-15,KG
 0.6581,"Peas (green, dry)",2019-12-15,KG
 0.3672,Bananas,2019-12-15,KG
@@ -9678,7 +9145,6 @@ usdprice,commodity,date,unit
 0.4895,Wheat flour,2019-12-15,KG
 0.6176,Sugar (white),2019-12-15,KG
 0.4407,Cassava (dry),2019-12-15,KG
-726.0338,Rice (white),2019-12-15,MT
 1.9978,Fish (tilapia),2019-12-15,Libra
 0.3672,Bananas,2019-12-15,KG
 0.7051,"Beans (red, fresh)",2019-12-15,KG
@@ -9692,7 +9158,6 @@ usdprice,commodity,date,unit
 0.235,Pumpkin,2019-12-15,KG
 0.5461,Cassava (dry),2020-01-15,KG
 0.9686,Rice (high quality),2020-01-15,KG
-832.659,Rice (white),2020-01-15,MT
 0.091,"Eggs (white, AA)",2020-01-15,Unit
 6.068,Meat (beef),2020-01-15,KG
 1.784,Meat (chicken),2020-01-15,KG
@@ -9720,8 +9185,6 @@ usdprice,commodity,date,unit
 0.4369,Maize (yellow),2020-01-15,KG
 0.6432,Maize flour,2020-01-15,KG
 0.8939,"Rice (ordinary, second quality)",2020-01-15,KG
-441.7476,Rice (paddy),2020-01-15,MT
-841.9296,Rice (white),2020-01-15,MT
 0.4854,Wheat flour,2020-01-15,KG
 0.1001,"Eggs (white, AA)",2020-01-15,Unit
 1.3653,Fish (tilapia),2020-01-15,Libra
@@ -9732,7 +9195,6 @@ usdprice,commodity,date,unit
 0.6576,Sugar (white),2020-01-15,KG
 2.8098,Fuel (diesel),2020-01-15,Gallon
 2.9442,Fuel (petrol-gasoline),2020-01-15,Gallon
-266.3237,"Wage (non-qualified labour, non-agricultural)",2020-01-15,Month
 0.5158,Beans (red),2020-01-15,KG
 0.7585,Lentils (imported),2020-01-15,KG
 0.6796,"Peas (green, dry)",2020-01-15,KG
@@ -9752,8 +9214,6 @@ usdprice,commodity,date,unit
 0.5055,Wheat flour,2020-01-15,KG
 0.6121,Sugar (white),2020-01-15,KG
 0.4551,Cassava (dry),2020-01-15,KG
-401.2439,Rice (paddy),2020-01-15,MT
-772.9066,Rice (white),2020-01-15,MT
 1.1529,Fish (tilapia),2020-01-15,Libra
 2.7467,Fuel (diesel),2020-01-15,Gallon
 2.8726,Fuel (petrol-gasoline),2020-01-15,Gallon
@@ -9769,8 +9229,6 @@ usdprice,commodity,date,unit
 0.3864,Maize (white),2020-02-15,KG
 0.3775,Maize (yellow),2020-02-15,KG
 0.9467,Rice (high quality),2020-02-15,KG
-431.2986,Rice (paddy),2020-02-15,MT
-868.9867,Rice (white),2020-02-15,MT
 0.0863,"Eggs (white, AA)",2020-02-15,Unit
 5.7506,Meat (beef),2020-02-15,KG
 1.6907,Meat (chicken),2020-02-15,KG
@@ -9796,8 +9254,6 @@ usdprice,commodity,date,unit
 0.23,Potatoes,2020-02-15,KG
 0.9003,Rice (high quality),2020-02-15,KG
 0.8349,"Rice (ordinary, second quality)",2020-02-15,KG
-471.5531,Rice (paddy),2020-02-15,MT
-805.0907,Rice (white),2020-02-15,MT
 0.7476,Wheat flour,2020-02-15,KG
 0.0949,"Eggs (white, AA)",2020-02-15,Unit
 1.2939,Fish (tilapia),2020-02-15,Libra
@@ -9805,7 +9261,6 @@ usdprice,commodity,date,unit
 2.5878,Cheese,2020-02-15,KG
 0.6676,Sugar (white),2020-02-15,KG
 2.7189,Fuel (diesel),2020-02-15,Gallon
-252.3968,"Wage (non-qualified labour, non-agricultural)",2020-02-15,Month
 1.3419,Oil (vegetable),2020-02-15,L
 0.5176,Beans (red),2020-02-15,KG
 0.4025,Lentils (imported),2020-02-15,KG
@@ -9825,7 +9280,6 @@ usdprice,commodity,date,unit
 0.9274,Rice (high quality),2020-02-15,KG
 0.4795,Wheat flour,2020-02-15,KG
 0.6213,Sugar (white),2020-02-15,KG
-785.6823,Rice (white),2020-02-15,MT
 2.3003,Fish (tilapia),2020-02-15,Libra
 2.6574,Fuel (diesel),2020-02-15,Gallon
 2.7298,Fuel (petrol-gasoline),2020-02-15,Gallon
@@ -9837,7 +9291,6 @@ usdprice,commodity,date,unit
 1.1501,Spinach,2020-02-15,KG
 0.3461,Maize (yellow),2020-03-15,KG
 0.9272,Rice (high quality),2020-03-15,KG
-796.607,Rice (white),2020-03-15,MT
 0.0791,"Eggs (white, AA)",2020-03-15,Unit
 1.9769,Fish (tilapia),2020-03-15,Libra
 5.2717,Meat (beef),2020-03-15,KG
@@ -9875,7 +9328,6 @@ usdprice,commodity,date,unit
 0.6151,Sugar (white),2020-03-15,KG
 2.2109,Fuel (diesel),2020-03-15,Gallon
 2.1841,Fuel (petrol-gasoline),2020-03-15,Gallon
-231.3742,"Wage (non-qualified labour, non-agricultural)",2020-03-15,Month
 1.2301,Oil (vegetable),2020-03-15,L
 0.5799,"Peas (green, dry)",2020-03-15,KG
 0.3163,Bananas,2020-03-15,KG
@@ -9896,8 +9348,6 @@ usdprice,commodity,date,unit
 0.439,Wheat flour,2020-03-15,KG
 0.5906,Sugar (white),2020-03-15,KG
 0.2741,Potatoes,2020-03-15,KG
-375.6061,Rice (paddy),2020-03-15,MT
-720.2412,Rice (white),2020-03-15,MT
 1.0543,Fish (tilapia),2020-03-15,Libra
 2.1545,Fuel (diesel),2020-03-15,Gallon
 2.1295,Fuel (petrol-gasoline),2020-03-15,Gallon
@@ -9907,8 +9357,6 @@ usdprice,commodity,date,unit
 1.0314,Onions (red),2020-03-15,KG
 0.1845,Pumpkin,2020-03-15,KG
 0.4092,Cassava (dry),2020-04-15,KG
-383.5866,Rice (paddy),2020-04-15,MT
-789.9043,Rice (white),2020-04-15,MT
 1.9179,Fish (tilapia),2020-04-15,Libra
 0.2813,Milk (pasteurized),2020-04-15,500 ML
 2.1471,Fuel (diesel),2020-04-15,Gallon
@@ -9922,7 +9370,6 @@ usdprice,commodity,date,unit
 0.5114,Tomatoes (dried),2020-04-15,KG
 0.2984,Cassava (dry),2020-04-15,KG
 0.3836,Maize (yellow),2020-04-15,KG
-417.3422,Rice (paddy),2020-04-15,MT
 0.0869,"Eggs (white, AA)",2020-04-15,Unit
 1.0459,Fish (tilapia),2020-04-15,Libra
 0.951,Cocoa,2020-04-15,Libra
@@ -9938,16 +9385,12 @@ usdprice,commodity,date,unit
 0.3069,Oranges (big size),2020-04-15,KG
 0.5114,Tomatoes (dried),2020-04-15,KG
 0.2557,Potatoes,2020-04-15,KG
-367.6038,Rice (paddy),2020-04-15,MT
-726.5769,Rice (white),2020-04-15,MT
 1.074,Fish (tilapia),2020-04-15,Libra
 2.0903,Fuel (diesel),2020-04-15,Gallon
 2.066,Fuel (petrol-gasoline),2020-04-15,Gallon
 0.716,"Beans (red, fresh)",2020-04-15,KG
 0.7774,Blackberry,2020-04-15,KG
 0.6137,Mangoes,2020-04-15,KG
-384.1446,Rice (paddy),2020-05-15,MT
-904.8738,Rice (white),2020-05-15,MT
 0.0896,"Eggs (white, AA)",2020-05-15,Unit
 5.1219,Meat (beef),2020-05-15,KG
 1.5058,Meat (chicken),2020-05-15,KG
@@ -9970,7 +9413,6 @@ usdprice,commodity,date,unit
 0.6402,Tomatoes (dried),2020-05-15,KG
 0.461,Maize (white),2020-05-15,KG
 0.5429,Maize flour,2020-05-15,KG
-434.3395,Rice (paddy),2020-05-15,MT
 0.5019,Wheat flour,2020-05-15,KG
 0.0871,"Eggs (white, AA)",2020-05-15,Unit
 1.0454,Fish (tilapia),2020-05-15,Libra
@@ -9980,7 +9422,6 @@ usdprice,commodity,date,unit
 0.8195,Sugar,2020-05-15,KG
 2.1481,Fuel (diesel),2020-05-15,Gallon
 2.122,Fuel (petrol-gasoline),2020-05-15,Gallon
-224.8022,"Wage (non-qualified labour, non-agricultural)",2020-05-15,Month
 1.4938,Oil (vegetable),2020-05-15,L
 1.639,Beans (red),2020-05-15,KG
 1.3112,Lentils (imported),2020-05-15,KG
@@ -9999,8 +9440,6 @@ usdprice,commodity,date,unit
 0.461,Spinach,2020-05-15,KG
 0.6146,Tomatoes (dried),2020-05-15,KG
 0.2241,Cassava (dry),2020-05-15,KG
-417.4371,Rice (paddy),2020-05-15,MT
-758.0453,Rice (white),2020-05-15,MT
 1.1268,Fish (tilapia),2020-05-15,Libra
 2.0933,Fuel (diesel),2020-05-15,Gallon
 0.3457,Bananas,2020-05-15,KG
@@ -10011,18 +9450,14 @@ usdprice,commodity,date,unit
 0.3585,Mangoes,2020-05-15,KG
 0.7171,Onions (red),2020-05-15,KG
 0.5122,Onions (white),2020-05-15,KG
-394.9887,Rice (paddy),2020-06-15,MT
-874.8071,Rice (white),2020-06-15,MT
 2.2257,Fuel (diesel),2020-06-15,Gallon
 2.1799,Fuel (petrol-gasoline),2020-06-15,Gallon
 0.8589,"Peas (green, dry)",2020-06-15,KG
 0.6097,Broccoli,2020-06-15,KG
 0.5872,Mangoes,2020-06-15,KG
 0.3817,Papaya,2020-06-15,KG
-371.1303,Rice (paddy),2020-06-15,MT
 2.1966,Fuel (petrol-gasoline),2020-06-15,Gallon
 0.6267,Mangoes,2020-06-15,KG
-409.0386,Rice (paddy),2020-06-15,MT
 2.1417,Fuel (petrol-gasoline),2020-06-15,Gallon
 0.4241,Mangoes,2020-06-15,KG
 5.3031,Meat (beef),2020-04-15,KG
